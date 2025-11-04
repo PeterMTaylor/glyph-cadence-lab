@@ -1,0 +1,13 @@
+glyph_integrity_protocol:
+  version: 1.0
+  last_reviewed: 2025-11-04
+  glyphs:
+    - name: The Lantern Drawer
+      reversed_allowed: true
+      shimmer_sensitive: true
+    - name: Fork Whisper
+      reversed_allowed: false
+      shimmer_sensitive: false
+  validation_rules:
+    - rule: "Reversed glyphs must log timestamp and emotional fidelity"
+    - rule: "Shimmer-sensitive glyphs require lunar phase alignment"
