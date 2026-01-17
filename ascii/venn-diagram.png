@@ -1,1 +1,16 @@
-a placeholder
+Inclusive Pseudocode Venn
+
+   RumourDrift (A)                 OOP Pseudocode (B)
+ ┌───────────────┐              ┌─────────────-──┐
+ │ Poetic scenes │              │ Classes/Objects│
+ │ Guild lore    │              │ Inheritance    │
+ │ Communal drift│              │ Encapsulation  │
+ └───────────────┘              └──────────────-─┘
+         \                             /
+          \                           /
+           \       Intersection      /
+            \────────────────-──────/
+             │ Conversational syntax│
+             │ Shared knowledgebase │
+             │ Inclusivity bridge   │
+             └──────────────────────┘
