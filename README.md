@@ -7,3 +7,5 @@ logic and lore walks together.
 Buzzing glyph guides the drift,  
 communal syntax breathes,  
 and the Guild records resonance.
+
+~o~ archivist drift ~o~
