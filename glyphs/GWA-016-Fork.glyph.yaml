@@ -1,0 +1,41 @@
+glyphs:
+  - id: 016
+    name: "Fork"
+    category: "Decision Glyph"
+    origin_glyphs:
+      - "Driftstem"
+      - "Linefract"
+    emotional_function:
+      - "Encodes bifurcation"
+      - "Initiates narrative branching"
+    drawer_affinity:
+      - "Trial Drawer"
+      - "Scene Card Index"
+      - "Compass Vault"
+    observational_fragments:
+      - "[Drawer: Emits shimmer pulse when placed during lineage tension]"
+      - "[Sigil: Flickers when emotional fidelity is unresolved]"
+      - "[Scene: First appeared during Trial 009 when crew oath fractured mid-ritual]"
+    ritual_annotations:
+      - "Trial 009: Fork placed in trial drawer; drawer shimmered, scene card split"
+      - "Trial 012: Paired with Balance to prevent emotional rupture"
+    moon_compass_alignment:
+      - "  Vellith Arm: Pulse staggered"
+      - "  Korrin Arm: Drawer resisted opening"
+      - "  Eshra Arm: Morale buffered, then drifted"
+    emotional_diagnostics:
+      pulse_signature: "0.6 shimmer pulse (variable)"
+      shimmer_fidelity: "Medium; bifurcation risk present"
+      emotional_zone:
+        - "Choice"
+        - "Drift"
+        - "Hesitation"
+      mutation_risk: "Moderate; may invert into forkfract"
+      guild_observations:
+        - "Trial Scribes approved for scene mutation"
+        - "Loomkeepers flag for containment pairing"
+    vault_layering_potential:
+      - "Placed in scene card drawer initiates narrative branching—used in oath rupture mapping"
+      - "Paired with Balance, drawer shimmer stabilizes and emotional drift is buffered"
+    notes:
+      - "Fork doesn’t ask for permission. It pulses when the drawer can’t decide."

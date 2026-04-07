@@ -1,0 +1,41 @@
+glyphs:
+  - id: 033
+    name: "Breathlock"
+    category: "Containment Glyph"
+    origin_glyphs:
+      - "Breathbind"
+      - "Stillthread"
+    emotional_function:
+      - "Seals drawer breath rhythm"
+      - "Prevents shimmer surge"
+    drawer_affinity:
+      - "Medical Drawer"
+      - "Helm Index"
+      - "Trauma Vault"
+    observational_fragments:
+      - "[Drawer: Emits sealed hum when placed during emotional overload]"
+      - "[Sigil: Activates when breath intervals destabilize]"
+      - "[Scene: Used during Trial 021 to prevent drawer rupture post-oath collapse]"
+    ritual_annotations:
+      - "Trial 021: Breathlock placed in trauma drawer after shimmer spike; drawer sealed"
+      - "Trial 023: Paired with Hush during grief buffering"
+      - "Moon Compass Alignment:"
+      - "  Vellith Arm: Pulse muted"
+      - "  Korrin Arm: Latency extended"
+      - "  Eshra Arm: Morale buffered"
+    emotional_diagnostics:
+      pulse_signature: "0.3 sealed hum (stable)"
+      shimmer_fidelity: "High; breath rhythm contained"
+      emotional_zone:
+        - "Containment"
+        - "Silence"
+        - "Buffer"
+      mutation_risk: "Low; unless paired with rupture glyphs"
+      guild_observations:
+        - "Medical Officers approved for trauma containment"
+        - "Loomkeepers use during drawer sealing"
+    vault_layering_potential:
+      - "Placed in trauma drawer prevents shimmer surge—used in breath containment mapping"
+      - "Paired with Hush, drawer shimmer stabilizes and emotional latency extends"
+    notes:
+      - "Breathlock doesn’t silence the drawer. It holds the breath until the grief is ready to exhale."

@@ -1,0 +1,43 @@
+glyph_registry:
+  hollow_pulse:
+    sigil_name: 'Hollow Pulse'
+    origin_glyphs: ['Echobind', 'Faultroot']
+    category: 'Trauma Glyph'
+    emotional_function: |
+      Encodes absence and echo trauma.
+      Used in rituals of silence, memory voids, and post-collapse mapping.
+    drawer_affinity:
+      - 'Silence Vault'
+      - 'Fault Corridor'
+      - 'Echo Chamber'
+    audit_tags:
+      trauma_type: 'Echo latency'
+      ritual_use: ['silence mapping', 'memory void calibration']
+      vault_layering_potential: true
+
+    observational_fragments:
+      - drawer: 'Emits low-frequency pulse when placed in silence vault'
+      - sigil: 'Activates during memory rupture, crew disbandment, or protocol abandonment'
+      - scene: 'First appeared during Trial 009 after Echobind failed to buffer Faultroot'
+    trial_reflections:
+      - elenya: 'Pulse was hollow, but it looped. Senn traced it to Faultroot decay.'
+      - senn: 'Echobind shimmered once, then collapsed. Hollow Pulse resisted containment.'
+      - trial_009: 'Pulse looped across corridor; shimmer latency exceeded 2.3s'
+      - trial_015: 'Paired with Silence Thread and Faultroot; shimmer stabilized, echo buffered'
+
+    containment_fidelity_profile:
+      pulse_signature: '0.9 hollow shimmer (low frequency)'
+      shimmer_fidelity: 'Low; echo drift present'
+      latency_signature: '2.3s drawer delay before shimmer collapse'
+      emotional_zone: ['Absence', 'Echo', 'Collapse']
+      mutation_risk: 'High; may trigger protocol rupture glyphs'
+      guild_resonance:
+        engineers: 'High'
+        medical_officers: 'Moderate'
+        ritual_scribes: 'Low (resists silence logic)'
+    vault_layering_potential:
+      layering_notes:
+        - 'Placed in silence vault initiates hollow shimmer—used in memory void rituals'
+        - 'Requires pairing with Faultroot or Silence Thread for containment'
+        - 'May trigger rupture glyphs if drawer latency exceeds 2s'
+      elenya_quote: 'Hollow Pulse doesn’t echo. It waits for the silence to forget.'

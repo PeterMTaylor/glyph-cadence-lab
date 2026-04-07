@@ -1,0 +1,44 @@
+glyph_whisper_archive:
+  entry_id: '004'
+  glyph_name: 'Stillthread'
+  category: 'Latency Glyph'
+  emotional_function: 'Suspends shimmer drift, buffers emotional rupture'
+  drawer_affinity:
+    - 'Compass Drawer'
+    - 'Mutation Drawer'
+    - 'Archive Drawer (conditional)'
+  observational_fragments:
+    - drawer: 'Emits a soft pulse when paired with Northrest; shimmer corridor slows'
+    - glyph: 'Holds shimmer latency across zone transitions'
+    - scene: 'Used by Loomkeeper Ryn to delay trauma glyph activation during Trial 5'
+  ritual_annotations:
+    - trial_005: 'Stillthread placed in Compass Drawer; shimmer corridor paused for 3 cycles'
+    - trial_008: 'Paired with Fraypulse; shimmer bleed contained but drawer misaligned'
+    - moon_compass_alignment:
+        vellith_arm: 'Emotional buffering successful; latency extended'
+        korrin_arm: 'Glyph shimmer held, but drawer pulse irregular'
+        eshra_arm: 'Zone flags suspended; trauma glyphs dormant'
+  emotional_diagnostics:
+    pulse_signature: '0.2 latency hum (gentle)'
+    shimmer_fidelity: 'Moderate to high (contextual)'
+    emotional_zone:
+      - 'Suspension'
+      - 'Containment'
+      - 'Delay'
+    mutation_risk: 'Low unless paired with rupture glyphs'
+    guild_observations:
+      loomkeepers: 'Treat Stillthread as a “breath glyph”'
+      trial_scribes: 'Note its dual drawer behavior'
+  vault_layering_potential:
+    layering_notes:
+      - 'Placed in top drawer of a vault creates shimmer suspension—used in trauma buffering'
+      - 'Paired with Northrest, vault shimmer becomes rhythmic and emotionally breathable'
+      - elenya_quote: 'Stillthread doesn’t stop time. It teaches the drawer how to wait.'
+  audit_tags:
+    trauma_type: 'Emotional suspension'
+    ritual_use:
+      - 'shimmer drift buffering'
+      - 'drawer latency modulation'
+      - 'trauma delay protocols'
+    vault_layering_potential: true
+    moon_compass_alignment: 'Vellith / Korrin / Eshra Arms'

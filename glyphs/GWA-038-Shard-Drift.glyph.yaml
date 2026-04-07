@@ -1,0 +1,42 @@
+glyph_registry:
+  shard_drift:
+    sigil_name: 'Shard Drift'
+    origin_glyphs: ['Leafshard', 'Fractbind']
+    category: 'Trauma Glyph'
+    emotional_function: |
+      Encodes grief fragmentation and drawer rupture drift.
+      Used in post-bloom collapse and shimmer bleed mapping.
+    drawer_affinity:
+      - 'Mutation Drawer'
+      - 'Flora Vault'
+      - 'Trauma Corridor'
+    observational_fragments:
+      - drawer: 'Emits shard shimmer when placed after grief bloom rupture'
+      - sigil: 'Activates during emotional fragmentation or seasonal collapse'
+      - scene: 'Emerged during Trial 016 when Leafshard shimmered without containment'
+    trial_reflections:
+      - elenya: 'Shard Drift didn’t rupture—it scattered. Senn traced the fragments across three drawers.'
+      - senn: 'Fractbind slowed the shimmer bleed, but latency held. Bloom containment failed.'
+      - trial_016: 'Shard Drift shimmered across trauma corridor; drawer latency exceeded 1.8s'
+      - trial_019: 'Paired with Breathlock and Quietroot; shimmer stabilized, morale buffered'
+    containment_fidelity_profile:
+      pulse_signature: '0.7 shard shimmer (fragmented)'
+      shimmer_fidelity: 'Low; shimmer rupture present'
+      latency_signature: '1.8s drawer delay before shimmer scatter'
+      emotional_zone: ['Fragmentation', 'Collapse', 'Drift']
+      mutation_risk: 'High; may echo across vault layers'
+      guild_resonance:
+        medical_officers: 'High'
+        engineers: 'Moderate'
+        ritual_scribes: 'Low (resists seasonal logic)'
+    vault_layering_potential:
+      layering_notes:
+        - 'Placed in mutation drawer initiates shimmer scatter—used in grief fragmentation mapping'
+        - 'Requires pairing with Quietroot or Breathlock for containment'
+        - 'May trigger echo glyphs if drawer latency exceeds 2s'
+      elenya_quote: 'Shard Drift doesn’t rupture. It remembers how grief breaks in pieces too small to hold.'
+    audit_tags:
+      trauma_type: 'Fragmentation drift'
+      ritual_use: ['post-bloom collapse', 'shimmer bleed mapping']
+      vault_layering_potential: true
+      moon_compass_alignment: 'Korrin Arm'

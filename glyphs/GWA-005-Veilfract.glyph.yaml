@@ -1,0 +1,60 @@
+glyph_whisper_archive:
+  resonance_signature: "quiet → steady → echo hum"
+  timeframe_anchor: "Post-Trial & Confrontation Era"
+  zone: ["Glowspool Grove", "Village", "Allocated Zones"]
+
+  whisper_events:
+    - glyph: "Humility"
+      location: "Glowspool Basin"
+      resonance: "quiet → steady → echo hum"
+      scriber: "Lio"
+      scroll_issuer: "Elenya"
+      guild_tracking:
+        - "Medical Officer Guild (partial endorsement)"
+        - "Emotional Infrastructure Guild (full resonance confirmation)"
+
+  pair_logic:
+    - positive: "Humility"
+      counter_positive: "Pride"
+    - positive: "Restraint"
+      counter_positive: "Impulse"
+
+  drawer_affinity:
+    - "Mirror Ledger"
+    - "Ritual Drawer"
+
+  status:
+    - "Unconfirmed (awaiting glyph trial)"
+    - "Pending"
+
+  observational_fragments:
+    - "Proven glyph response triggered basin-wide sync"
+    - "Echo hum confirmed by three basin nodes"
+    - "Emotional fidelity confirmed by Elder Maren"
+
+  trial_reference: "Trial 019 — Basin Sync Calibration"
+
+  personnel_transitions:
+    - name: "Elenya"
+      note: "Returned to allocated zone post-confirmation"
+    - name: "Lio"
+      note: "Continued glyph discussion with Scriber Venn"
+    - name: "Senn"
+      note: "Not selected for familial glyph trials due to bias concerns"
+    - name: "Venn"
+      note: "Proposed alternate Medical Officer candidate for glyph pairing trials"
+
+  next_steps:
+    - "Draft glyph pair ledger: Humility ↔ Pride"
+    - "Confirm Medical Officer candidate for familial glyph resonance"
+    - "Begin Whisper Archive expansion across zones"
+  archive_notes:
+    - "Focus on emotional glyphs with steady resonance patterns"
+    - "Coordinate with Emotional Infrastructure Guild for broader trials"
+  references:
+    - "Whisper Archive Index 042 — Emotional Glyphs"
+    - "Medical Officer Guild Records — Post-Trial Adjustments"
+  metadata:
+    created_by: "Archivist Taren"
+    creation_date: "2024-06-15"
+    last_updated: "2024-06-20"

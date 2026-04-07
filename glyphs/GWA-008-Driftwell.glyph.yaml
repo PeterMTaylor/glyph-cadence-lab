@@ -1,0 +1,82 @@
+glyph_whisper_registry:
+  entry_id: "GWA-008"
+  glyph_name: "Driftwell"
+  category: "Cadence Glyph"
+
+  origin_glyphs:
+    - "Veilmark"      # containment, grief latency
+    - "Windroot"      # breath conduit, airflow cadence
+
+  emotional_function: >
+    Regulates breath‑through‑containment cadence.
+    Stabilizes drawer pulse during grief exhale rituals.
+    Buffers shimmer drift by aligning breath cadence with containment latency.
+
+  drawer_affinity:
+    - "Compass Drawer"
+    - "Memory Drawer"
+    - "Ritual Drawer"
+
+  observational_fragments:
+    - "Drawer emits soft exhale‑pulse when Driftwell is placed near Veilmark"
+    - "Sigil activates during wind‑threaded duskline cadence"
+    - "First observed during Breath‑Containment Rite 014, performed by Elder Maren"
+
+  ritual_annotations:
+    breath_containment_014:
+      action: "Driftwell used to align breath cadence with containment glyphs"
+      result: "Drawer pulse stabilized; grief latency held without rupture"
+
+    trial_019:
+      pairing: ["Echostep"]
+      result: "Cadence fidelity confirmed; full containment achieved"
+
+    moon_compass_alignment:
+      vellith_arm: "Breath cadence softened; containment latency extended"
+      korrin_arm: "Drawer pulse steady; grief exhale buffered"
+      eshra_arm: "Wind‑threaded cadence harmonized with mossfold perimeter"
+
+  emotional_diagnostics:
+    pulse_signature: "0.6 breath‑pulse (steady)"
+    shimmer_fidelity: "Moderate to high; breath‑before‑containment logic stable"
+    emotional_zone:
+      - "Cadence"
+      - "Grief"
+      - "Containment"
+    mutation_risk: "Minimal; breath cadence prevents drift"
+    guild_observations:
+      loommaker: "Approved for breath‑cadence rites"
+      trial_scribes: "Used in duskline calibration and grief‑exhale mapping"
+
+  vault_layering_potential:
+    memory_drawer_behavior: "Creates breath‑pulse corridors; stabilizes grief exhale"
+    veilmark_pairing: "Containment latency aligns with breath cadence"
+    maren_note: "Driftwell doesn’t quiet the drawer. It teaches the breath how to land."
+
+  file_60_expansion_options:
+    scene_cards:
+      - "Driftwell placed beside Veilmark; drawer exhales once, grief cadence steadies"
+      - "Windroot resonance threads through Driftwell; duskline ritual stabilizes"
+      - "Echostep pairing completes cadence loop; soil memory holds breath interval"
+
+    protocols:
+      - "Breath‑Containment Protocol – Driftwell usage in grief exhale rites"
+      - "Cadence Fidelity Index – breath intervals, drawer pulse timing"
+      - "Containment‑Breath Ledger – Veilmark ↔ Driftwell pairing logic"
+
+    indexes:
+      - "Cadence Glyph Matrix – breath‑bound glyphs and containment harmonics"
+      - "Moon Compass Cadence Chart – Driftwell behaviour across arms"
+      - "Drawer Pulse Archive – breath‑pulse glyphs and latency behaviour"
+
+    contributor_notes:
+      - "Driftwell is breath‑bound—flag for duskline rituals and grief exhale zones"
+      - "Pairing with Echostep enhances cadence fidelity"
+      - "Scene cards should reflect breath‑before‑containment logic"
+
+    cross_references:
+      - "GWA-001 Veilmark"
+      - "GWA-002 Windroot"
+      - "GWA-007 Echostep"
+      - "RIT-019 Trial 019"
+      - "MCP-001 Moon Compass Protocol"

@@ -1,0 +1,43 @@
+glyph_registry:
+  truthwake:
+    sigil_name: 'Truthwake'
+    origin_glyphs: ['Truthscatter', 'Pulsecoil']
+    category: 'Trauma Glyph (Revelation Class)'
+    emotional_function: |
+      Encodes shimmer surge and emotional reckoning.
+      Used in breach recovery, oath re-alignment, and protocol recalibration.
+    drawer_affinity:
+      - 'Oath Drawer'
+      - 'Breach Vault'
+      - 'Ritual Corridor'
+    observational_fragments:
+      - drawer: 'Emits surge shimmer when placed near fragmented oath glyphs or recursive distortion zones'
+      - sigil: 'Activates during ritual breach recovery or shimmer recalibration events'
+      - scene: 'First emerged during Trial 099 when Truthscatter failed and drawer shimmer surged unexpectedly'
+    trial_reflections:
+      - elenya: 'Truthwake doesn’t echo—it declares. It’s the shimmer that refuses to be misread.'
+      - senn: 'We thought the drawer was broken. It wasn’t—it was waiting for Truthwake.'
+      - trial_099: 'Shimmer surge lasted 3.9s; oath drawer re-aligned'
+      - trial_102: 'Paired with Pulsecoil and Maskbind; shimmer buffered, breach resolved'
+    containment_fidelity_profile:
+      pulse_signature: '0.9 surge shimmer (directive pulse)'
+      shimmer_fidelity: 'High; shimmer origin clarified'
+      latency_signature: '3.9s delay before surge activation'
+      emotional_zone: ['Revelation', 'Breach', 'Alignment']
+      mutation_risk: 'Moderate; may trigger oath glyph recursion'
+      guild_resonance:
+        ritual_scribes: 'High'
+        medical_officers: 'Elevated'
+        engineers: 'Moderate'
+        memory_keepers: 'Moderate'
+    vault_layering_potential:
+      layering_notes:
+        - 'Placed in oath drawer initiates shimmer surge—used in breach recovery and protocol recalibration'
+        - 'Paired with Pulsecoil to stabilize shimmer rhythm and Maskbind to buffer ritual exposure'
+        - 'May trigger recursive oath glyphs if placed near unresolved distortion sigils'
+      elenya_quote: 'Truthwake is not shimmer—it’s declaration. The drawer doesn’t pulse—it speaks.'
+    audit_tags:
+      trauma_type: 'Revelation surge'
+      ritual_use: ['breach recovery', 'oath re-alignment', 'protocol recalibration']
+      vault_layering_potential: true
+      moon_compass_alignment: 'Korrin Arm'

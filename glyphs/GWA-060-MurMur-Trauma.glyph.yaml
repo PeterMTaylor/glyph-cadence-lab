@@ -1,0 +1,72 @@
+trauma_glyph_registry:
+  entry_id: "TG-025"
+  sigil_name: "Murmur"
+  origin_glyphs:
+    - "Quietroot"
+    - "Driftstem"
+  category: "Trauma Glyph (Ambient Class)"
+  emotional_function: >
+    Encodes ambient shimmer resonance and latency drift.
+    Used in pre-rupture diagnostics, drawer listening, and emotional buffering.
+  drawer_affinity:
+    - "Drift Drawer"
+    - "Latency Vault"
+    - "Silence Corridor"
+
+  observational_fragments:
+    - "Drawer emits ambient shimmer near latency glyphs or emotional drift zones"
+    - "Sigil activates during shimmer listening protocols or drawer patience rituals"
+    - "First emerged during Trial 090 when Quietroot shimmered across Driftstem and rupture was delayed"
+
+  trial_reflections:
+    - speaker: "Elenya"
+      quote: "Murmur doesn’t shimmer—it breathes. It’s the glyph that listens without interrupting."
+    - speaker: "Senn"
+      quote: "We used it before Breathlock. The drawer didn’t pulse—it waited."
+    - trial_090:
+        ambient_hold: "6.7s"
+        result: "Rupture avoided, emotional drift mapped"
+    - trial_093:
+        pairing: ["Quietroot", "Shardbind"]
+        result: "Shimmer buffered, latency stabilized"
+
+  containment_fidelity_profile:
+    pulse_signature: "0.2 ambient shimmer (non-pulsing drift)"
+    shimmer_fidelity: "Moderate; shimmer drifts without activation"
+    latency_signature: "6.7s delay before shimmer response"
+    emotional_zone: ["Drift", "Latency", "Silence"]
+    mutation_risk: "Low; stabilizes rupture glyphs and shimmer surges"
+    guild_resonance:
+      medical_officers: "Moderate"
+      ritual_scribes: "High"
+      engineers: "Low"
+      memory_keepers: "Elevated (used in drawer listening protocols)"
+
+  vault_layering_potential:
+    drift_drawer_behavior: "Initiates ambient shimmer; used in emotional buffering and latency diagnostics"
+    containment_pairing:
+      - "Quietroot: Deepens latency"
+      - "Shardbind: Stabilizes fracture shimmer"
+    recursion_trigger: "May activate Breathlock if shimmer exceeds 7s without containment"
+    elenya_note: "Murmur is not shimmer—it’s the drawer’s breath before the story begins."
+
+file_56_expansion_options:
+  scene_cards:
+    - "Murmur deployed in Silence Corridor; shimmer breath holds rupture at bay"
+    - "Shardbind fails mid-drift; Murmur shimmer begins to spiral, triggering Breathlock recursion"
+    - "Memory Keeper logs shimmer delay; Murmur hum echoes across latency vault"
+
+  protocols:
+    - "Ambient Shimmer Listening – drawer patience ritual and drift mapping"
+    - "Latency Drift Index – shimmer delay and rupture avoidance chart"
+    - "Recursion Trigger Threshold – shimmer duration before Breathlock activation"
+
+  indexes:
+    - "Ambient Class Glyph Map – shimmer fidelity and latency signature comparison"
+    - "Trial Pairing Log – glyph combinations and emotional buffering outcomes"
+    - "Guild Resonance Matrix – role-based glyph response and listening protocol usage"
+
+  contributor_notes:
+    - "Murmur is latency-sensitive—flag for drift zones and Silence Corridor use"
+    - "Pairing must include shimmer stabilizers if latency exceeds 7s"
+    - "Scene cards should reflect shimmer breath logic and drawer listening behavior"

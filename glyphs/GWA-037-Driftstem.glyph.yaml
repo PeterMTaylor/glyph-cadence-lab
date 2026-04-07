@@ -1,0 +1,41 @@
+glyphs:
+  - id: 037
+    name: "Driftstem"
+    category: "Botanical Anchor Glyph"
+    origin_glyphs:
+      - "Pulsecoil"
+      - "Leafchant"
+    emotional_function:
+      - "Anchors drawer drift"
+      - "Buffers seasonal shimmer and cadence misalignment"
+    drawer_affinity:
+      - "Flora Vault"
+      - "Compass Index"
+      - "Ritual Drawer"
+    observational_fragments:
+      - "[Drawer: Emits stem hum when placed during seasonal drift or moonphase calibration]"
+      - "[Sigil: Activates when drawer shimmer loops or cadence falters]"
+      - "[Scene: Used during Trial 011 to stabilize drawer after grief bloom rupture]"
+    ritual_annotations:
+      - "Trial 011: Driftstem placed in flora drawer post-shard rupture; shimmer cadence restored"
+      - "Trial 018: Paired with Quietroot during ritual café calibration"
+      - "Moon Compass Alignment:"
+      - "  Vellith Arm: Pulse softened and held"
+      - "  Korrin Arm: Latency buffered"
+      - "  Eshra Arm: Morale harmonized"
+    emotional_diagnostics:
+      pulse_signature: "0.8 stem hum (adaptive)"
+      shimmer_fidelity: "High; drawer drift stabilized"
+      emotional_zone:
+        - "Seasonal"
+        - "Drift"
+        - "Containment"
+      mutation_risk: "Low; buffers shimmer misalignment"
+      guild_observations:
+        - "Loomkeepers approved for flora indexing"
+        - "Ritual Scribes use during seasonal rites"
+    vault_layering_potential:
+      - "Placed in flora drawer anchors seasonal shimmer—used in bloom drift mapping"
+      - "Paired with Quietroot, drawer latency extends and shimmer loops dissolve"
+    notes:
+      - "Driftstem doesn’t resist the drift. It roots the drawer where the season still remembers."

@@ -1,0 +1,27 @@
+glyph_registry:
+  echo_mute:
+    sigil_name: 'Echo Mute'
+    origin_glyphs: ['Echobind', 'Silence Thread']
+    category: 'Trauma Glyph (Suppression Class)'
+    function: |
+      Suppresses shimmer feedback and echo resonance.
+      Used in ritual audit containment and latency buffering.
+    drawer_affinity:
+      - 'Audit Drawer'
+      - 'Silence Vault'
+      - 'Echo Corridor'
+    profile_highlights:
+      pulse_signature: '0.2 muted shimmer (echo suppression)'
+      shimmer_fidelity: 'High; feedback loops suppressed'
+      latency_signature: '1.9s delay before suppression activation'
+      mutation_risk: 'High; may trigger echo glyph proliferation'
+    guild_resonance:
+      whisper_technicians: 'High'
+      medical_officers: 'Moderate'
+      ritual_scribes: 'Low'
+    elenya_quote: 'Echo Mute doesn’t silence the drawer—it listens until the echo forgets how to return.'
+    audit_tags:
+      trauma_type: 'Echo suppression'
+      ritual_use: ['latency buffering', 'audit containment']
+      vault_layering_potential: true
+      moon_compass_alignment: 'Eshra Arm'

@@ -1,0 +1,43 @@
+glyph_registry:
+  spill_thread:
+    sigil_name: 'Spill Thread'
+    origin_glyphs: ['Hollow Bind', 'Echo Vein']
+    category: 'Trauma Glyph'
+    emotional_function: |
+      Encodes emotional overflow and shared grief bleed.
+      Used in communal containment and drawer saturation mapping.
+    drawer_affinity:
+      - 'Spill Vault'
+      - 'Memory Drawer'
+      - 'Corridor Index'
+    observational_fragments:
+      - drawer: 'Emits overflow shimmer when placed near grief glyphs with unresolved latency'
+      - sigil: 'Activates during emotional bleed or memory saturation events'
+      - scene: 'First emerged during Trial 050 when Hollow Bind failed to contain echo drift'
+    trial_reflections:
+      - elenya: 'Spill Thread doesn’t rupture—it leaks. It finds the drawer that wasn’t meant to hold it.'
+      - senn: 'We traced the shimmer across four drawers. It never pulsed—it seeped.'
+      - trial_050: 'Overflow shimmer lasted 3.6s; memory drawer saturation confirmed'
+      - trial_053: 'Paired with Murmur and Breathlock; shimmer buffered, emotional bleed localized'
+    containment_fidelity_profile:
+      pulse_signature: '0.6 overflow shimmer (ambient bleed)'
+      shimmer_fidelity: 'Low; shimmer spreads laterally'
+      latency_signature: '3.6s bleed delay before drawer saturation'
+      emotional_zone: ['Overflow', 'Memory', 'Communal']
+      mutation_risk: 'Moderate; may trigger echo glyph loops'
+      guild_resonance:
+        medical_officers: 'High'
+        memory_keepers: 'Elevated'
+        ritual_scribes: 'Moderate'
+        engineers: 'Low (prefers rupture logic)'
+    vault_layering_potential:
+      layering_notes:
+        - 'Placed in spill vault initiates overflow shimmer—used in communal grief containment and memory bleed mapping'
+        - 'Requires pairing with Murmur or Breathlock for shimmer buffering'
+        - 'May trigger echo loops if placed near latency glyphs'
+      elenya_quote: 'Spill Thread doesn’t ask to be held. It finds the drawer that’s already full.'
+    audit_tags:
+      trauma_type: 'Grief overflow'
+      ritual_use: ['communal containment', 'memory saturation']
+      vault_layering_potential: true
+      moon_compass_alignment: 'Eshra Arm'

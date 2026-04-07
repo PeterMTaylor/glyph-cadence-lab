@@ -1,0 +1,43 @@
+glyph_registry:
+  shardbind:
+    sigil_name: 'Shardbind'
+    origin_glyphs: ['Fractbind', 'Quietroot']
+    category: 'Trauma Glyph'
+    emotional_function: |
+      Encodes fracture containment and shard stabilization.
+      Used in pre-therapy protocols and trauma detection rituals.
+    drawer_affinity:
+      - 'Stabilization Vault'
+      - 'Diagnostic Drawer'
+      - 'Fracture Corridor'
+    observational_fragments:
+      - drawer: 'Emits containment shimmer when placed near trauma glyphs with unresolved rupture'
+      - sigil: 'Activates during pre-therapy scans or fracture mapping rituals'
+      - scene: 'First emerged during Trial 084 when Fractbind shimmered across diagnostic drawers'
+    trial_reflections:
+      - elenya: 'Shardbind doesn’t heal—it holds. It’s the glyph that says, "We see the break, and we’re not afraid of it."'
+      - senn: 'We used it before any therapy began. It gave the drawer time to breathe before the stitching started.'
+      - trial_084: 'Shimmer held for 3.4s; fracture stabilized across two drawers'
+      - trial_087: 'Paired with Breathlock and Driftstem; shimmer buffered, therapy initiated'
+    containment_fidelity_profile:
+      pulse_signature: '0.6 containment shimmer (fracture hold)'
+      shimmer_fidelity: 'High; shimmer stabilizes without rupture'
+      latency_signature: '3.4s delay before containment activation'
+      emotional_zone: ['Fracture', 'Stabilization', 'Pre-Therapy']
+      mutation_risk: 'Low; buffers rupture glyphs effectively'
+      guild_resonance:
+        medical_officers: 'High'
+        engineers: 'Moderate'
+        ritual_scribes: 'Moderate'
+        memory_keepers: 'Low'
+    vault_layering_potential:
+      layering_notes:
+        - 'Placed in stabilization vault to hold emotional or physical fracture before therapy'
+        - 'Paired with Breathlock or Driftstem to buffer shimmer and prepare for healing protocols'
+        - 'May trigger therapeutic glyphs if containment holds beyond 4s'
+      elenya_quote: 'Shardbind is the drawer’s cast. Not to fix—but to hold until the healing begins.'
+    audit_tags:
+      trauma_type: 'Fracture containment'
+      ritual_use: ['pre-therapy stabilization', 'trauma detection']
+      vault_layering_potential: true
+      moon_compass_alignment: 'Korrin Arm'

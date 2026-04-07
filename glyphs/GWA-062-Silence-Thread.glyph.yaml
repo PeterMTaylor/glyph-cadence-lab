@@ -1,0 +1,85 @@
+trauma_glyph_registry:
+  entry_id: "TG-027"
+  sigil_name: "Silence Thread"
+  origin_glyphs:
+    - "Quietroot"
+    - "Maskbind"
+  category: "Trauma Glyph (Absence Class)"
+  emotional_function: >
+    Encodes shimmer absence and drawer quieting.
+    Used in ritual suppression, latency anchoring, and emotional null zones.
+  drawer_affinity:
+    - "Silence Vault"
+    - "Null Drawer"
+    - "Ritual Corridor"
+
+  observational_fragments:
+    - "Drawer emits shimmer null field near rupture glyphs or echo corridors"
+    - "Sigil activates during ritual suppression or emotional nullification protocols"
+    - "First emerged during Trial 099 when Quietroot shimmered across Maskbind and drawer resonance collapsed"
+
+  trial_reflections:
+    - speaker: "Elenya"
+      quote: "Silence Thread doesn’t buffer—it erases. It’s the shimmer that chooses not to exist."
+    - speaker: "Senn"
+      quote: "We used it when Murmur failed. The drawer didn’t drift—it vanished."
+    - trial_099:
+        null_hold: "5.9s"
+        result: "Emotional resonance collapsed"
+    - trial_101:
+        pairing: ["Maskbind", "Driftstem"]
+        result: "Shimmer suppressed, ritual integrity maintained"
+
+  containment_fidelity_profile:
+    pulse_signature: "0.0 null shimmer (absence field)"
+    shimmer_fidelity: "None; shimmer suppressed entirely"
+    latency_signature: "5.9s delay before null field activation"
+    emotional_zone: ["Silence", "Suppression", "Null"]
+    mutation_risk: "Moderate; may trigger drawer collapse if paired with rupture glyphs"
+    guild_resonance:
+      ritual_scribes: "High"
+      whisper_technicians: "Elevated"
+      medical_officers: "Moderate"
+      engineers: "Low"
+
+  vault_layering_potential:
+    silence_vault_behavior: "Initiates shimmer null field; used in ritual suppression and emotional quieting"
+    containment_pairing:
+      - "Maskbind: Maintains concealment"
+      - "Driftstem: Softens latency drift"
+    collapse_risk: "May trigger drawer collapse if placed near active rupture glyphs"
+    elenya_note: "Silence Thread is not latency—it’s the drawer’s refusal to shimmer."
+
+  guild_lore:
+    loommaker_prank_scenario:
+      description: >
+        A Loommaker once embedded Silence Thread into a scriber’s glyph scroll,
+        causing the shimmer to vanish mid-render. The scriber panicked, believing their glyphs had failed.
+        The Loommaker later revealed the prank, noting: “Silence is the strongest ink.”
+      emotional_implication: "Playful tension between guilds; reinforces respect for absence-class glyphs"
+      ritual outcome: "Scroll shimmer restored after re-render in latency-safe viewport"
+
+file_56_expansion_options:
+  scene_cards:
+    - "Silence Thread deployed during ritual blackout; drawer shimmer suppressed, emotional contagion avoided"
+    - "Loommaker prank causes scriber glyphs to vanish; Silence Thread embedded in scroll margins"
+    - "Maskbind fails mid-trial; Silence Thread holds null field for 6.2s before rupture glyph pulses"
+
+  protocols:
+    - "Ritual Suppression Protocol – shimmer null field layering and latency anchoring"
+    - "Drawer Collapse Risk Index – glyph pairing thresholds and containment fallback"
+    - "Guild Prank Registry – documented inter-guild mischief involving glyph manipulation"
+
+  indexes:
+    - "Absence Class Glyph Map – shimmer suppression and null field behavior"
+    - "Trial Nullification Log – latency delay and drawer resonance collapse tracking"
+    - "Guild Resonance Matrix – role-based glyph response and suppression protocol usage"
+
+  contributor_notes:
+    - "Silence Thread is emotionally potent—flag for suppression use only"
+    - "Pairing must avoid active rupture glyphs to prevent drawer collapse"
+    - "Scene cards may include guild humor and emotional tension around shimmer absence"
+    - "Protocols should emphasize ritual applications and containment strategies"
+    - "Indexes to track absence-class glyphs and their emotional impacts"
+    - "Highlight guild-specific interactions with Silence Thread in contributor notes"
+    

@@ -1,0 +1,66 @@
+glyph_whisper_registry:
+  entry_id: "GWA-002"
+  glyph_name: "Fraypulse"
+  category: "Mutation Glyph"
+  emotional_function: >
+    Signals drawer instability and initiates shimmer bleed.
+    Used in mutation trials, improvisational diagnostics, and rupture corridor mapping.
+  drawer_affinity:
+    - "Mutation Drawer"
+    - "Trial Drawer"
+    - "Echo Drawer (unstable)"
+
+  observational_fragments:
+    - "Drawer emits erratic hum when Fraypulse is layered over Veilstem"
+    - "Glyph flickers unpredictably during dual drawer calibration"
+    - "Senn improvised Fraypulse during Trial 007; shimmer corridor destabilized"
+
+  ritual_annotations:
+    - trial_007:
+        action: "Fraypulse introduced mid-trial"
+        result: "Drawer shimmer ruptured; Veilstem mutated into Veilfract"
+    - trial_009:
+        pairing: ["Echo Shard"]
+        result: "Drawer pulsed twice, then locked"
+    - moon_compass_alignment:
+        vellith_arm: "Containment failed; shimmer bleed increased"
+        korrin_arm: "Trauma glyphs amplified; drawer misaligned"
+        eshra_arm: "Morale buffered briefly, then collapsed"
+
+  emotional_diagnostics:
+    pulse_signature: "0.3 shimmer echo (unstable)"
+    shimmer_fidelity: "Low to volatile"
+    emotional_zone: ["Rupture", "Improvisation"]
+    mutation_risk: "High; known to destabilize latency glyphs"
+    guild_observations:
+      trial_scribes: "Confirm misalignment"
+      loommaker: "Dispute glyph’s origin; claim it emerged from drawer drift, not design"
+
+  vault_layering_potential:
+    middle_drawer_behavior: "May trigger shimmer echo across vault layers"
+    echo_shard_pairing: "Vault hum becomes erratic—used in mutation trials"
+    elenya_note: "Fraypulse doesn’t rupture drawers. It asks them what they’re hiding."
+
+file_60_expansion_options:
+  scene_cards:
+    - "Fraypulse layered over Veilstem; drawer shimmer ruptures, Veilfract emerges"
+    - "Echo Shard pairing triggers erratic hum; trial drawer locks mid-calibration"
+    - "Forensic apprentice misuses Fraypulse; shimmer bleed spreads across containment corridor"
+
+  protocols:
+    - "Mutation Trial Index – glyph pairings, shimmer rupture thresholds, drawer misalignment logs"
+    - "Forensic Glyph Volatility Curriculum – Fraypulse as case study in improvisational glyph behavior"
+    - "Oppositional Glyph Lexicon – tracking glyphs with inverse or destabilizing emotional logic"
+
+  indexes:
+    - "Moon Compass Misalignment Chart – Fraypulse behavior across Vellith, Korrin, Eshra arms"
+    - "Drawer Instability Matrix – glyphs that trigger shimmer bleed or vault hum disruption"
+    - "Improvisational Glyph Registry – glyphs created mid-trial or through emotional override"
+
+  contributor_notes:
+    - "Fraypulse is not a containment glyph—flag for mutation trials and improvisational diagnostics only"
+    - "Scene cards should reflect drawer hesitation, shimmer rupture, and emotional volatility"
+    - "Oppositional glyphs (e.g., Fraypulse vs. Stillthread) may be paired in forensic school for contrast training"
+    - "Vault layering potential should emphasize emotional instability and shimmer bleed risks"
+    - "Consult with trial scribes and loommaker guild for accuracy on drawer behavior and glyph origin"
+    

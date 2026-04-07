@@ -1,0 +1,43 @@
+glyph_registry:
+  quietroot:
+    sigil_name: 'Quietroot'
+    origin_glyphs: ['Breathlock', 'Murmur']
+    category: 'Trauma Glyph (Latency Class)'
+    emotional_function: |
+      Encodes shimmer buffering and latency anchoring.
+      Used in emotional containment, drawer patience, and rupture delay.
+    drawer_affinity:
+      - 'Latency Drawer'
+      - 'Buffer Vault'
+      - 'Ritual Corridor'
+    observational_fragments:
+      - drawer: 'Emits latency shimmer when placed near surge glyphs or emotional rupture zones'
+      - sigil: 'Activates during shimmer buffering, ritual delay, or emotional containment'
+      - scene: 'First emerged during Trial 087 when Breathlock shimmered across Murmur and rupture was delayed'
+    trial_reflections:
+      - elenya: 'Quietroot doesn’t mute—it holds. It’s the shimmer that waits without collapsing.'
+      - senn: 'We used it before Pulsecoil. The drawer didn’t pulse—it breathed.'
+      - trial_087: 'Latency shimmer held for 6.3s; rupture delayed, emotional buffering confirmed'
+      - trial_090: 'Paired with Shardbind and Maskbind; shimmer stabilized, ritual integrity maintained'
+    containment_fidelity_profile:
+      pulse_signature: '0.3 latency shimmer (gentle hold)'
+      shimmer_fidelity: 'High; shimmer buffered without rupture'
+      latency_signature: '6.3s delay before shimmer release'
+      emotional_zone: ['Latency', 'Buffering', 'Containment']
+      mutation_risk: 'Low; stabilizes surge and rupture glyphs'
+      guild_resonance:
+        medical_officers: 'High'
+        ritual_scribes: 'Elevated'
+        engineers: 'Moderate'
+        memory_keepers: 'Low'
+    vault_layering_potential:
+      layering_notes:
+        - 'Placed in latency drawer initiates shimmer buffering—used in emotional containment and rupture delay'
+        - 'Paired with Shardbind to stabilize fracture shimmer and Maskbind to maintain ritual concealment'
+        - 'May trigger Breathlock recursion if latency exceeds 7s'
+      elenya_quote: 'Quietroot is not silence—it’s shimmer held in trust.'
+    audit_tags:
+      trauma_type: 'Latency containment'
+      ritual_use: ['emotional buffering', 'rupture delay', 'containment anchoring']
+      vault_layering_potential: true
+      moon_compass_alignment: 'Vellith Arm'

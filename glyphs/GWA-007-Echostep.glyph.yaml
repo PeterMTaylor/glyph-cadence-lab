@@ -1,0 +1,74 @@
+glyph_whisper_registry:
+  entry_id: "GWA-007"
+  glyph_name: "Echostep"
+  category: "Lineage Glyph"
+  origin_glyphs:
+    - "Veilmark"
+    - "Northrest"
+  emotional_function: >
+    Transfers ancestral memory through soil cadence.
+    Buffers grief latency and stabilizes drawer pulse during silent inheritance rituals.
+  drawer_affinity:
+    - "Memory Drawer"
+    - "Mossfold Perimeter"
+    - "Grief Zone Index"
+
+  observational_fragments:
+    - "Drawer emits single pulse when performed near Veilmark soil glyph"
+    - "Sigil activates during duskline cadence, especially in Mossfold perimeter"
+    - "First observed during Cradle Pod Ritual 007, performed by Elder Maren with Damaris in silent witness"
+
+  ritual_annotations:
+    - cradle_pod_ritual_007:
+        action: "Echostep used to echo memory into soil"
+        result: "Drawer 3A pulsed once, remained sealed"
+    - trial_019:
+        pairing: ["Driftwell chant"]
+        result: "Cadence fidelity confirmed; full containment achieved"
+    - moon_compass_alignment:
+        vellith_arm: "Stabilizes grief zones near kelp-rooted vaults"
+        korrin_arm: "Used in silent lineage rites; no vocal chant permitted"
+        eshra_arm: "Breath cadence harmonized with mossfold glyphs during duskline rituals"
+
+  emotional_diagnostics:
+    pulse_signature: "1.0 soil echo (single pulse, sealed)"
+    shimmer_fidelity: "High; breath-before-step logic stable"
+    emotional_zone: ["Grief", "Lineage", "Latency"]
+    mutation_risk: "Minimal; protocol-bound rhythm prevents drift"
+    guild_observations:
+      loommaker: "Approved for silent inheritance"
+      forensic_school: "Indexing pending for soil cadence diagnostics"
+
+  vault_layering_potential:
+    memory_drawer_behavior: "Creates soil echo corridors—used in grief containment"
+    driftwell_pairing: "Stabilizes drawer behavior and buffers emotional latency"
+    maren_note: "Echostep doesn’t echo sound—it echoes breath. It’s the rhythm soil remembers when voice cannot."
+
+file_60_expansion_options:
+  scene_cards:
+    - "Echostep performed at dusk; drawer 3A pulses once, grief latency buffered"
+    - "Driftwell chant harmonizes with Echostep; mossfold perimeter stabilizes soil memory"
+    - "Damaris observes silently; cadence map seeded from breath intervals and drawer pulse timing"
+
+  protocols:
+    - "Silent Inheritance Protocol – Echostep usage in non-verbal lineage transfer rituals"
+    - "Cadence Mapping Index – breath intervals, drawer pulse timing, and soil echo layering"
+    - "Margin Glyph Registry – glyphs used to annotate silent rituals and mossfold behavior"
+
+  indexes:
+    - "Lineage Glyph Matrix – ancestral pairings and soil-bound cadence logic"
+    - "Moon Compass Cadence Chart – Echostep behavior across Vellith, Korrin, Eshra arms"
+    - "Drawer Pulse Archive – single-pulse glyphs and sealed memory behavior"
+
+  contributor_notes:
+    - "Echostep is non-verbal and soil-bound—flag for silent inheritance and grief buffering zones"
+    - "Pairing with Driftwell enhances cadence fidelity and drawer stabilization"
+    - "Scene cards should reflect breath-before-step logic and mossfold perimeter resonance"
+  cross_references:
+    - "GWA-001 Veilmark"
+    - "GWA-002 Northrest"
+    - "GWA-004 Driftwell"
+    - "RIT-007 Cradle Pod Ritual"
+    - "RIT-019 Trial 019"
+    - "MCP-001 Moon Compass Protocol"
+    

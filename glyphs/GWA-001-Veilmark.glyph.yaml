@@ -1,0 +1,71 @@
+glyph_id: "GWA-001"
+name: "Veilmark"
+family: "Latency Glyph"
+category: "Latency Glyph"
+
+lineage:
+  primary: ""
+  secondary: ""
+
+origin_glyphs: []
+
+function:
+  emotional: "Buffers grief and stabilizes drift in moss basins."
+  navigational: ""
+  distortion: ""
+  containment: "Supports hesitation drawers and layered vault resonance."
+
+signature:
+  pulse: "0.7 shimmer echo (stable)"
+  activation: "Breathstone proximity; dusk trials"
+  shimmer_fidelity: "Moderate to high (contextual)"
+  latency: ""
+
+affect:
+  whisper: "Holds grief without releasing it."
+  trauma_residue: "Shimmer bleed under Fraypulse; latency drift."
+  wildcard: "Activates only after breathstone proximity."
+
+drawer_affinity:
+  - "Hesitation Drawer"
+  - "Containment Drawer"
+
+observational_fragments:
+  - "Drawer emits low hum when Veilmark is placed during dusk trials"
+  - "Glyph flickers faintly when paired with Threadchant in grief zones"
+  - "Shimmer activated only after breathstone proximity during Elenya’s placement pause"
+
+rituals:
+  - ritual_id: "trial_001"
+    method: "Fingertip tracing"
+    pairing: []
+    exposure: ""
+    effect: "Grief buffered; drawer remained closed"
+  - ritual_id: "trial_003"
+    method: ""
+    pairing: ["Stillthread"]
+    exposure: ""
+    effect: "Shimmer stabilized; latency unchanged"
+  - ritual_id: "trial_007"
+    method: ""
+    pairing: []
+    exposure: "Fraypulse"
+    effect: "Mutation onset; shimmer bleed logged"
+
+risk_profile:
+  mutation: "Low unless exposed to Fraypulse"
+  emotional_zone:
+    - "Grief"
+    - "Continuity"
+  guild_resonance:
+    - guild: "loommaker"
+      level: "Confirmed buffering"
+    - guild: "trial_scribes"
+      level: "Latency drift noted"
+
+vault_behavior:
+  drawer_behavior: "Stabilizes lower-drawer shimmer"
+  pairing_behavior: "Synchronizes vault hum with Threadchant"
+  layering:
+    - "Absent from oral glyph lore"
+    - "Elenya: remembers across layers"

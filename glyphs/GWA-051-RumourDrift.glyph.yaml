@@ -1,0 +1,43 @@
+glyph_registry:
+  rumour_drift:
+    sigil_name: 'Rumour Drift'
+    origin_glyphs: ['Truthblur', 'Echo Vein']
+    category: 'Trauma Glyph (Distortion Class)'
+    emotional_function: |
+      Encodes shimmer misdirection, latency echo, and memory distortion.
+      Used in ritual misreadings and protocol ambiguity mapping.
+    drawer_affinity:
+      - 'Whisper Vault'
+      - 'Echo Corridor'
+      - 'Memory Drift Drawer'
+    observational_fragments:
+      - drawer: 'Emits shimmer mimicry when placed near oath glyphs or revoked trauma sigils'
+      - sigil: 'Activates during ritual misreadings, emotional contagion, or shimmer echo loops'
+      - scene: 'First emerged during Trial 091 when Truthblur shimmered across Echo Vein and was misindexed as an oath glyph'
+    trial_reflections:
+      - elenya: 'Rumour Drift doesn’t lie—it repeats what was never said. It’s shimmer without source.'
+      - senn: 'We traced the echo to a drawer that had never held the glyph. It shimmered anyway.'
+      - trial_091: 'Shimmer misread as oath echo; latency exceeded 2.8s'
+      - trial_094: 'Paired with Whisperloop and Maskbind; distortion buffered, protocol ambiguity logged'
+    containment_fidelity_profile:
+      pulse_signature: '0.5 mimic shimmer (non-origin echo)'
+      shimmer_fidelity: 'Low; shimmer misdirects across drawers'
+      latency_signature: '2.8s delay before echo loop activation'
+      emotional_zone: ['Distortion', 'Echo', 'Contagion']
+      mutation_risk: 'High; may trigger recursive glyph drift'
+      guild_resonance:
+        medical_officers: 'Moderate'
+        memory_keepers: 'High'
+        whisper_technicians: 'Elevated'
+        engineers: 'Low (glyph resists structural indexing)'
+    vault_layering_potential:
+      layering_notes:
+        - 'Placed in whisper vault initiates shimmer mimicry—used in ritual misreading diagnostics'
+        - 'Requires pairing with Whisperloop or Maskbind to buffer distortion'
+        - 'May trigger recursive glyph drift if placed near revoked trauma sigils'
+      elenya_quote: 'Rumour Drift is not deception—it’s shimmer without anchor. The drawer believes what it was never told.'
+    audit_tags:
+      trauma_type: 'Memory distortion'
+      ritual_use: ['protocol ambiguity', 'ritual misreading']
+      vault_layering_potential: true
+      moon_compass_alignment: 'Vellith Arm'

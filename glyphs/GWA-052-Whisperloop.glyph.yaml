@@ -1,0 +1,43 @@
+glyph_registry:
+  whisperloop:
+    sigil_name: 'Whisperloop'
+    origin_glyphs: ['Rumour Drift', 'Murmur']
+    category: 'Trauma Glyph (Recursive Distortion Class)'
+    emotional_function: |
+      Encodes shimmer recursion and echo loop distortion.
+      Used in misinformation tracing and ritual misread diagnostics.
+    drawer_affinity:
+      - 'Whisper Vault'
+      - 'Echo Drawer'
+      - 'Drift Corridor'
+    observational_fragments:
+      - drawer: 'Emits recursive shimmer when placed near echo glyphs or latency vaults'
+      - sigil: 'Activates during shimmer feedback loops or ritual misdirection events'
+      - scene: 'First emerged during Trial 094 when Rumour Drift shimmered recursively across three drawers'
+    trial_reflections:
+      - elenya: 'Whisperloop doesn’t lie—it repeats until belief forms.'
+      - senn: 'We couldn’t trace the origin. Every drawer shimmered like it was the first.'
+      - trial_094: 'Recursive shimmer loop lasted 4.6s; protocol ambiguity confirmed'
+      - trial_097: 'Paired with Echo Mute and Truthscatter; loop buffered, shimmer stabilized'
+    containment_fidelity_profile:
+      pulse_signature: '0.6 recursive shimmer (looped feedback)'
+      shimmer_fidelity: 'Low; shimmer origin obscured'
+      latency_signature: '4.6s loop delay before containment'
+      emotional_zone: ['Recursion', 'Drift', 'Misdirection']
+      mutation_risk: 'High; may trigger echo glyph proliferation'
+      guild_resonance:
+        whisper_technicians: 'High'
+        memory_keepers: 'Elevated'
+        medical_officers: 'Moderate'
+        engineers: 'Low'
+    vault_layering_potential:
+      layering_notes:
+        - 'Used in whisper vaults to trace shimmer recursion and ritual misdirection'
+        - 'Paired with Echo Mute to suppress feedback and Truthscatter to fragment origin shimmer'
+        - 'May trigger echo glyph proliferation if containment fails'
+      elenya_quote: 'Whisperloop is not a lie—it’s a shimmer that believes itself.'
+    audit_tags:
+      trauma_type: 'Recursive distortion'
+      ritual_use: ['misinformation tracing', 'ritual misread diagnostics']
+      vault_layering_potential: true
+      moon_compass_alignment: 'Eshra Arm'

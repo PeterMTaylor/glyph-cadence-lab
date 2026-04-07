@@ -1,0 +1,140 @@
+glyph_whisper_registry:
+  entry_id: "GWA-019"
+  glyph_name: "Truthblur"
+  category: "Obfuscation Glyph"
+  origin_glyphs:
+    - "Truthbind"  # oath fidelity
+    - "Fogpulse"   # shimmer veil
+  emotional_function: >
+    Softens oath clarity and introduces latency in drawer indexing.
+    Used to delay shimmer rupture, veil emotional commitment, and buffer protocol hesitation.
+  drawer_affinity:
+    - "Mirror Ledger"
+    - "Trial Drawer"
+    - "Mutation Vault"
+
+  observational_fragments:
+    - "Drawer emits fog shimmer when placed near oath glyphs"
+    - "Sigil flickers during emotional buffering or protocol hesitation"
+    - "Emerged during Trial 015 when crew ledger shimmered post-oath drift"
+
+  ritual_annotations:
+    - trial_015:
+        emergence: "Truthblur shimmered into drawer after Truthbind failed to anchor"
+    - trial_018:
+        pairing: ["Shadow Vow"]
+        result: "Shimmer rupture delayed; drawer indexing veiled"
+    - moon_compass_alignment:
+        vellith_arm: "Pulse staggered"
+        korrin_arm: "Latency extended"
+        eshra_arm: "Morale buffered, then veiled"
+
+  emotional_diagnostics:
+    pulse_signature: "0.3 fog shimmer (unstable)"
+    shimmer_fidelity: "Low; drawer indexing delayed"
+    emotional_zone: ["Hesitation", "Veil", "Drift"]
+    mutation_risk: "Moderate; may invert into oath fracture"
+    guild_observations:
+      mutation_scribes: "Used for protocol delay and shimmer buffering"
+      loommaker: "Refuse to index due to veil instability"
+
+  vault_layering_potential:
+    mirror_ledger_behavior: "Veils oath shimmer—used in latency mapping and emotional drift containment"
+    truthbind_pairing: "Improves shimmer fidelity but drawer remains veiled"
+    elenya_note: "Truthblur doesn’t lie. It waits until the drawer forgets what it promised."
+
+file_70_expansion_options:
+  scene_cards:
+    - "Truthblur flickers during protocol hesitation; drawer shimmer veils oath trace"
+    - "Shadow Vow and Truthblur paired; shimmer rupture delayed, indexing fogged"
+    - "Crew ledger pulses with fog shimmer; oath drift recorded in Mirror Ledger"
+
+  protocols:
+    - "Latency Mapping Protocol – drawer indexing delay and shimmer veil tracking"
+    - "Oath Fracture Diagnostics – glyph behavior during emotional drift and commitment collapse"
+    - "Mirror Ledger Veil Index – glyphs that obscure, delay, or invert drawer fidelity"
+
+  indexes:
+    - "Obfuscation Glyph Registry – Truthblur, Fogpulse, Shadow Vow interactions"
+    - "Drawer Drift Archive – shimmer behavior under protocol hesitation and emotional buffering"
+    - "Crew Ledger Delay Log – flagged entries from oath drift and shimmer veil"
+
+  contributor_notes:
+    - "Truthblur is veil-bound—flag for Mirror Ledger use and protocol hesitation diagnostics"
+    - "Pairing with Truthbind may stabilize shimmer but drawer indexing remains delayed"
+    - "Scene cards should reflect emotional buffering, shimmer veiling, and oath latency logic"
+  recommended_readings:
+    - "The Veil of Oaths: Understanding Obfuscation Glyphs in Crew Protocols"
+    - "Shimmer Dynamics in Drawer Indexing: A Study of Truthblur and Related Glyphs"
+    - "Emotional Buffering and Latency in Guild Glyphs: Practical Applications and Case Studies"
+  related_glyphs:
+    - "Truthbind"
+    - "Fogpulse"
+    - "Shadow Vow"
+  cross_references:
+    - "Glyph_Whisper_Archive_Entry_005_Truthbind.yaml"
+    - "Glyph_Whisper_Archive_Entry_012_Fogpulse.yaml"
+    - "Glyph_Whisper_Archive_Entry_022_Shadow_Vow.yaml"
+  archival_tags:
+    - "Obfuscation"
+    - "Oath Latency"
+    - "Drawer Indexing"
+    - "Emotional Buffering"
+    - "Shimmer Veil"
+  preservation_instructions:
+    - "Store in low-light, low-humidity environment to maintain shimmer integrity"
+    - "Avoid prolonged exposure to high emotional zones to prevent veil destabilization"
+    - "Regularly monitor pulse signature for signs of inversion into oath fracture"
+  version_history:
+    - version: "1.0"
+      date: "2024-06-15"
+      changes: "Initial creation and archival of Truthblur glyph entry"
+file_70_expansion:
+  scene_cards:
+    - id: "SC-019-01"
+      description: "Truthblur flickers during protocol hesitation; drawer shimmer veils oath trace"
+    - id: "SC-019-02"
+      description: "Shadow Vow and Truthblur paired; shimmer rupture delayed, indexing fogged"
+    - id: "SC-019-03"
+      description: "Crew ledger pulses with fog shimmer; oath drift recorded in Mirror Ledger"
+
+  protocols:
+    - id: "PR-019-01"
+      name: "Latency Mapping Protocol"
+      description: "Drawer indexing delay and shimmer veil tracking"
+    - id: "PR-019-02"
+      name: "Oath Fracture Diagnostics"
+      description: "Glyph behavior during emotional drift and commitment collapse"
+    - id: "PR-019-03"
+      name: "Mirror Ledger Veil Index"
+      description: "Glyphs that obscure, delay, or invert drawer fidelity"
+
+  indexes:
+    - id: "IX-019-01"
+      name: "Obfuscation Glyph Registry"
+      description: "Truthblur, Fogpulse, Shadow Vow interactions"
+    - id: "IX-019-02"
+      name: "Drawer Drift Archive"
+      description: "Shimmer behavior under protocol hesitation and emotional buffering"
+    - id: "IX-019-03"
+      name: "Crew Ledger Delay Log"
+      description: "Flagged entries from oath drift and shimmer veil"
+
+  contributor_notes:
+    - "Truthblur is veil-bound—flag for Mirror Ledger use and protocol hesitation diagnostics"
+    - "Pairing with Truthbind may stabilize shimmer but drawer indexing remains delayed"
+    - "Scene cards should reflect emotional buffering, shimmer veiling, and oath latency logic"
+
+  recommended_readings:
+    - "The Veil of Oaths: Understanding Obfuscation Glyphs in Crew Protocols"
+    - "Shimmer Dynamics in Drawer Indexing: A Study of Truthblur and Related Glyphs"
+    - "Emotional Buffering and Latency in Guild Glyphs: Practical Applications and Case Studies"
+
+  related_glyphs:
+    - "Truthbind"
+    - "Fogpulse"
+    - "Shadow Vow"
+
+  cross_references:
+    - "Glyph_Whisper_Archive_Entry_005_Truthbind.yaml"
+    - "Glyph_Whisper_Archive_Entry_012_Fogpulse.yaml"

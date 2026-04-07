@@ -1,0 +1,43 @@
+glyph_registry:
+  ghostroot:
+    sigil_name: 'Ghostroot'
+    origin_glyphs: ['Hollow Bind', 'Driftstem']
+    category: 'Trauma Glyph'
+    emotional_function: |
+      Encodes residual grief and containment shadow.
+      Used in revoked glyph tracing and drawer haunt mapping.
+    drawer_affinity:
+      - 'Residue Vault'
+      - 'Revocation Drawer'
+      - 'Shadow Corridor'
+    observational_fragments:
+      - drawer: 'Emits faint shimmer echo when placed near revoked glyphs'
+      - sigil: 'Activates during drawer haunt events or shimmer residue detection'
+      - scene: 'First emerged during Trial 063 when Hollow Bind was revoked but shimmer persisted'
+    trial_reflections:
+      - elenya: 'Ghostroot doesn’t shimmer—it lingers. It’s the glyph that wasn’t indexed but never left.'
+      - senn: 'We found it in the residue vault. No pulse, no hum—just presence.'
+      - trial_063: 'Residual shimmer traced across three drawers; latency undefined'
+      - trial_066: 'Paired with Quietroot and Murmur; shimmer buffered, haunt localized'
+    containment_fidelity_profile:
+      pulse_signature: '0.1 residual shimmer (non-pulsing)'
+      shimmer_fidelity: 'Low; shimmer lingers without activation'
+      latency_signature: 'Undefined; glyph activates post-revocation'
+      emotional_zone: ['Residue', 'Shadow', 'Revocation']
+      mutation_risk: 'Moderate; may trigger haunt glyphs'
+      guild_resonance:
+        memory_keepers: 'High'
+        ritual_scribes: 'Moderate'
+        engineers: 'Low'
+        whisper_technicians: 'Elevated (used in drawer haunt tracing)'
+    vault_layering_potential:
+      layering_notes:
+        - 'Placed in residue vault initiates shimmer echo—used in revoked glyph tracing and drawer haunt mapping'
+        - 'Requires pairing with Quietroot or Murmur for containment'
+        - 'May trigger haunt glyphs if placed near revoked trauma sigils'
+      elenya_quote: 'Ghostroot is the shimmer that stayed behind. Not to pulse—but to remind.'
+    audit_tags:
+      trauma_type: 'Residual grief'
+      ritual_use: ['revoked glyph tracing', 'drawer haunt mapping']
+      vault_layering_potential: true
+      moon_compass_alignment: 'Vellith Arm'

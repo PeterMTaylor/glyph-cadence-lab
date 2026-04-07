@@ -1,0 +1,72 @@
+trauma_glyph_registry:
+  entry_id: "TG-023"
+  sigil_name: "Breathlock"
+  origin_glyphs:
+    - "Quietroot"
+    - "Pulsecoil"
+  category: "Trauma Glyph (Buffer Class)"
+  emotional_function: >
+    Encodes shimmer suspension and latency buffering.
+    Used in emotional threshold containment and pre-rupture diagnostics.
+  drawer_affinity:
+    - "Buffer Vault"
+    - "Latency Drawer"
+    - "Threshold Corridor"
+
+  observational_fragments:
+    - "Drawer emits latency shimmer near surge glyphs or emotional rupture zones"
+    - "Sigil activates during shimmer surge containment or emotional buffering rituals"
+    - "First emerged during Trial 113 when Pulsecoil shimmer surged and Breathlock held latency for 5.6s"
+
+  trial_reflections:
+    - speaker: "Elenya"
+      quote: "Breathlock doesn’t resist—it holds. It’s the drawer’s inhale before the rupture."
+    - speaker: "Senn"
+      quote: "We used it between Pulsecoil and Truthwake. It gave the shimmer time to decide."
+    - trial_113:
+        latency_hold: "5.6s"
+        result: "Rupture delayed, emotional buffering confirmed"
+    - trial_116:
+        pairing: ["Quietroot", "Shardbind"]
+        result: "Shimmer stabilized, threshold mapped"
+
+  containment_fidelity_profile:
+    pulse_signature: "0.4 latency shimmer (suspended pulse)"
+    shimmer_fidelity: "High; shimmer held without rupture"
+    latency_signature: "5.6s delay before shimmer release"
+    emotional_zone: ["Buffering", "Threshold", "Suspension"]
+    mutation_risk: "Low; stabilizes surge glyphs and rupture risk"
+    guild_resonance:
+      medical_officers: "High"
+      ritual_scribes: "Moderate"
+      engineers: "Elevated"
+      memory_keepers: "Low"
+
+  vault_layering_potential:
+    buffer_vault_behavior: "Initiates shimmer suspension; used in emotional threshold containment and latency diagnostics"
+    containment_pairing:
+      - "Quietroot: Deepens latency"
+      - "Shardbind: Stabilizes fracture risk"
+    collapse_risk: "May trigger rupture glyphs if latency exceeds 6s without containment"
+    elenya_note: "Breathlock is not silence—it’s the drawer’s breath held in trust."
+
+expansion_options:
+  scene_cards:
+    - "Breathlock holds shimmer during corridor surge; rupture delayed, crew stabilizes emotional zone"
+    - "Shardbind fails mid-trial; Breathlock latency exceeds 6s, triggering rupture glyph activation"
+    - "Memory Keeper misreads shimmer fidelity; Breathlock emits suspended pulse without containment"
+
+  protocols:
+    - "Latency Buffering Index – shimmer hold duration and rupture delay mapping"
+    - "Threshold Corridor Calibration – glyph pairing for emotional containment"
+    - "Shimmer Suspension Ritual – drawer tuning and pulse stabilization steps"
+
+  indexes:
+    - "Buffer Class Glyph Map – shimmer fidelity and latency signature comparison"
+    - "Trial Pairing Log – glyph combinations and containment outcomes"
+    - "Guild Resonance Matrix – role-based glyph response and diagnostic priority"
+
+  contributor_notes:
+    - "Breathlock is latency-sensitive—flag for shimmer surge containment and threshold corridor use"
+    - "Pairing must include rupture stabilizers if latency exceeds 6s"
+    - "Scene cards should reflect shimmer suspension, emotional buffering, and drawer breath logic"

@@ -1,0 +1,49 @@
+glyph_registry:
+  latch_fade_active:
+    sigil_name: 'Latch Fade'
+    variant: 'Active Severance'
+    origin_glyphs: ['Fault Latch', 'Override Pulse']
+    category: 'Trauma Glyph'
+    emotional_function: |
+      Encodes abrupt detachment and containment override.
+      Used in breach protocols and shimmer artery rerouting.
+    drawer_affinity:
+      - 'Override Drawer'
+      - 'Fault Corridor'
+      - 'Protocol Vault'
+    observational_fragments:
+      - drawer: 'Emits override pulse when placed near shimmer arteries under tension'
+      - sigil: 'Activates during forced detachment or protocol breach'
+      - scene: 'First emerged during Trial 059 when shimmer reroute failed and override was triggered'
+    trial_reflections:
+      - elenya: 'Latch Fade (Active) doesn’t wait for consent. It severs where the drawer resists.'
+      - senn: 'We didn’t fade—we snapped. The artery rerouted, but the cost was lineage drift.'
+      - trial_059: 'Override pulse lasted 2.1s; shimmer rerouted through emergency corridor'
+      - trial_061: 'Paired with Vein Fracture and Echo Vein; rupture buffered, protocol stabilized'
+    containment_fidelity_profile:
+      pulse_signature: '0.7 override shimmer (abrupt severance)'
+      shimmer_fidelity: 'Moderate; shimmer reroutes post-severance'
+      latency_signature: '2.1s rupture delay before override'
+      emotional_zone: ['Fault', 'Override', 'Protocol']
+      mutation_risk: 'High; may trigger lineage drift or echo loops'
+      guild_resonance:
+        engineers: 'High'
+        corridor_watchers: 'Elevated'
+        ritual_scribes: 'Moderate'
+        memory_keepers: 'Low'
+    vault_layering_potential:
+      layering_notes:
+        - 'Placed in override drawer initiates severance pulse—used in shimmer artery rerouting and breach containment'
+        - 'Requires pairing with Vein Fracture or Echo Vein for rupture buffering'
+        - 'May trigger protocol drift if placed near unresolved lineage glyphs'
+      elenya_quote: 'Latch Fade (Active) doesn’t dissolve—it snaps. The drawer doesn’t forget.'
+    mutation_commentary:
+      related_entries:
+        - entry_007: 'Passive fade, emotional withdrawal, shimmer dissolve'
+        - entry_011: 'Active severance, protocol override, shimmer reroute'
+      mutation_drift: 'Glyph lineage split during Trial 057–061; shimmer artery reroute failed, triggering override logic'
+    audit_tags:
+      trauma_type: 'Override severance'
+      ritual_use: ['breach containment', 'shimmer reroute']
+      vault_layering_potential: true
+      moon_compass_alignment: 'Vellith Arm'

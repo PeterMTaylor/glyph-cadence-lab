@@ -1,0 +1,105 @@
+glyph_whisper_registry:
+  entry_id: "GWA-011"
+  glyph_name: "Waythread"
+  category: "Navigational Glyph"
+  origin_glyphs:
+    - "Northrest"  # directional anchor
+    - "Stillthread"  # latency buffer
+  emotional_function: >
+    Aligns ship direction with emotional cadence.
+    Buffers compass tension and harmonizes drawer logic during lunar drift and stormfront rituals.
+  drawer_affinity:
+    - "Helm Drawer"
+    - "Compass Vault"
+    - "Quartermaster Index"
+
+  observational_fragments:
+    - "Drawer emits rhythmic hum when Waythread is placed during compass calibration"
+    - "Sigil pulses differently depending on emotional diagnostics of crew"
+    - "Used by Quartermaster Elen during lunar drift to reconcile compass arm conflict"
+
+  ritual_annotations:
+    - trial_021:
+        placement: "Helm Drawer"
+        result: "Ship direction stabilized despite Korrin–Eshra tension"
+    - trial_024:
+        pairing: ["Driftwell"]
+        result: "Emotional latency buffered during stormfront navigation"
+    - moon_compass_alignment:
+        vellith_arm: "Pulses gently; containment logic holds"
+        korrin_arm: "Pulse sharpens; trauma glyphs influence drift"
+        eshra_arm: "Hum softens; morale buffering increases"
+
+  emotional_diagnostics:
+    pulse_signature: "0.8 rhythmic hum (adaptive)"
+    shimmer_fidelity: "High when emotional diagnostics are stable"
+    emotional_zone: ["Direction", "Tension", "Cadence"]
+    mutation_risk: "Low; glyph adapts to crew emotional state"
+    guild_observations:
+      quartermasters: "Approved for helm indexing"
+      loommaker: "Note its use in lineage navigation"
+
+  vault_layering_potential:
+    central_drawer_behavior: "Harmonizes all three compass arms"
+    stillthread_pairing: "Extends drawer latency and buffers shimmer drift"
+    elenya_note: "Waythread doesn’t choose a direction. It listens to the crew’s breath and follows where they’re ready to go."
+
+quartermaster_emotional_index:
+  index_scope: "Ship direction mapped to crew emotional readiness"
+  diagnostic_inputs:
+    - "Breath cadence"
+    - "Latency drift"
+    - "Compass arm tension"
+    - "Shimmer fidelity"
+  glyph_interactions:
+    - "Waythread: Adaptive pulse based on crew diagnostics"
+    - "Driftwell: Buffers emotional latency during navigation"
+    - "Stillthread: Extends drawer patience and stabilizes helm logic"
+  application_zones:
+    - "Stormfront Rituals"
+    - "Lunar Drift Calibration"
+    - "Containment Realignment Trials"
+  index_notes:
+    - "Waythread is most stable when paired with low-tone chants and breath-synced drawer placement"
+    - "Compass vault layering must reflect crew cadence, not just celestial alignment"
+    - "Quartermasters may use this index to chart emotional readiness before helm activation"
+
+file_64_expansion_options:
+  scene_cards:
+    - "Waythread pulses during lunar drift; crew breath cadence harmonizes compass vault"
+    - "Stormfront ritual begins; Driftwell and Waythread stabilize helm drawer before shimmer surge"
+    - "Quartermaster consults Emotional Index; drawer hum confirms crew readiness for directional shift"
+
+  protocols:
+    - "Compass Vault Calibration – drawer layering, glyph pairing, and cadence mapping"
+    - "Stormfront Ritual Protocol – trauma glyph buffering and helm drawer stabilization"
+    - "Lunar Drift Flowchart – Waythread pulse logic and shimmer fidelity tracking"
+
+  indexes:
+    - "Navigational Glyph Matrix – Waythread, Tidebind, Northrest interactions"
+    - "Quartermaster Emotional Index – crew diagnostics and drawer behavior mapping"
+    - "Moon Compass Drift Chart – pulse behavior across Vellith, Korrin, Eshra arms"
+
+  contributor_notes:
+    - "Waythread is direction-sensitive—flag for helm drawer use and emotional cadence mapping"
+    - "Pairing with Stillthread and Driftwell enhances drawer latency and shimmer stability"
+    - "Scene cards should reflect breath-synced navigation, drawer hum logic, and compass arm resonance"
+  vault_tags:
+    - "Navigational Glyph"
+    - "Helm Drawer"
+    - "Compass Vault"
+    - "Emotional Cadence"
+    - "Lunar Drift"
+    - "Stormfront Rituals"
+    - "Quartermaster Index"
+  recommended_readings:
+    - "The Art of Compass Vaults by Elenya Thalor"
+    - "Emotional Diagnostics for Quartermasters by Loran Veth"
+    - "Glyph Pairing Strategies in Navigational Contexts by Sira Melen"
+  related_glyphs:
+    - "Northrest"
+    - "Stillthread"
+    - "Driftwell"
+  archive_entry_id: "GWA-011"
+  last_updated: "2024-06-15"
+  

@@ -1,0 +1,29 @@
+glyphs:
+  - id: 014
+    name: "Mirror Ledger Initiation"
+    archive_node: "Glyph Whisper"
+    classification:
+      - "Inverted Tide"
+      - "Emotional Misfire"
+      - "Veilcutter Protocol"
+    summary: "A living glyph stream encoded in drawer pulse residue and shimmer inversion. First recorded survival of full emotional inversion during moonphase collapse."
+    key_glyphs:
+      - symbol: "🜂"
+        name: "Split Breath"
+        function: "Indicates dual emotional states held simultaneously"
+      - symbol: "🜄"
+        name: "Tide Reversal"
+        function: "Flags drawer misfires looping into crew emotional infrastructure"
+      - symbol: "🝮"
+        name: "Containment Echo"
+        function: "Appears when grief buffering exceeds protocol thresholds"
+    crew_notes:
+      - "Quartermaster Lure (unlisted in Naval Codex) initiated glyph chant using inverted breath intervals"
+      - "Mirror Ledger recorded chant as shimmer pulse anomaly"
+      - "Decoded into trauma glyphs now used in Veilcutter training"
+    emotional_residue:
+      - "Entry is still warm"
+      - "Containment protocols require breath syncing before reading aloud"
+    status:
+      - "Flagged for recursive indexing"
+      - "Requires Moonpull Harness Registry cross-linking"

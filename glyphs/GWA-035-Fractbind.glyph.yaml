@@ -1,0 +1,40 @@
+glyphs:
+  - id: 035
+    name: "Fractbind"
+    category: "Fracture Glyph"
+    origin_glyphs:
+      - "Linefract"
+      - "Stillthread"
+    emotional_function:
+      - "Encodes emotional rupture with containment logic"
+    drawer_affinity:
+      - "Mutation Drawer"
+      - "Trial Vault"
+      - "Trauma Corridor"
+    observational_fragments:
+      - "[Drawer: Emits rupture hum when placed during lineage collapse]"
+      - "[Sigil: Activates when shimmer bleed exceeds threshold]"
+      - "[Scene: Used during Trial 010 to contain drawer rupture post-oath fracture]"
+    ritual_annotations:
+      - "Trial 010: Fractbind placed in mutation drawer after Linefract shimmered; containment held briefly"
+      - "Trial 014: Paired with Veilfract during grief mapping"
+      - "Moon Compass Alignment:"
+      - "  Vellith Arm: Containment failed"
+      - "  Korrin Arm: Trauma glyphs activated"
+      - "  Eshra Arm: Morale collapsed"
+    emotional_diagnostics:
+      pulse_signature: "0.5 rupture hum (unstable)"
+      shimmer_fidelity: "Low; containment partial"
+      emotional_zone:
+        - "Fracture"
+        - "Containment"
+        - "Mutation"
+      mutation_risk: "High; known to echo across drawers"
+      guild_observations:
+        - "Mutation Scribes flagged for recursive indexing"
+        - "Loomkeepers refuse to index"
+    vault_layering_potential:
+      - "Placed in mutation drawer buffers shimmer rupture—used in fracture mapping"
+      - "Paired with Stillthread, shimmer bleed slows but containment remains fragile"
+    notes:
+      - "Fractbind doesn’t hold the drawer together. It listens to the moment it breaks."

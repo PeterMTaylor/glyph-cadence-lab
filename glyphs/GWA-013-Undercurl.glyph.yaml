@@ -1,0 +1,93 @@
+glyph_whisper_registry:
+  entry_id: "GWA-013"
+  glyph_name: "Undercurl"
+  category: "Liminal Glyph"
+  origin_context:
+    recorded_by: "Loomkeeper Elenya"
+    condition: "Partial lunar occlusion"
+    indexed_by: "Drift Codex Council (posthumous)"
+  form: "Asymmetric spiral with a broken tail"
+  pulse_pattern: "3-1-2 (staggered breath, withheld exhale)"
+  material: "Shimmerleaf resin on tide-warped stone"
+  activation_conditions:
+    - "Lunar misalignment"
+    - "Emotional inversion"
+
+  context_of_emergence:
+    location: "Beneath Wharf Command during moonpull rehearsal"
+    emotional_conditions:
+      - "Crew exhibited inverse resonance (grief as laughter, hope as silence)"
+      - "Commander’s breath failed to sync with tide journal intervals"
+      - "Drawer misfired, releasing glyph echo from Entry 006 (Veilmark)"
+
+  interpretive_notes:
+    - "Undercurl is not a glyph of expression—it’s a glyph of containment rupture"
+    - "It records what was withheld, not what was felt"
+    - "Often mistaken for a failed glyph; Elenya confirmed emotional fidelity through reverse indexing"
+
+  emotional_signature:
+    primary_emotion: "Latency"
+    secondary_drift: "Shame buffered by ritual misalignment"
+    crew_impact:
+      - "One member entered trance state, whispering 'the tide forgot me'"
+      - "Another sketched glyphs backwards, initiating the Mirror Ledger"
+
+  protocol_implications:
+    moonpull_protocol_testing: "Used to test protocol resilience against emotional inversion"
+    echo_bleed_threshold: "If Undercurl is held without echo bleed, protocol is emotionally sound"
+    recommended_use: "Ritual cafés and inversion zones"
+
+file_66_expansion_options:
+  scene_cards:
+    - "Undercurl destabilizes moonpull rehearsal; drawer hum fractures, Veilmark echo loops"
+    - "Crew member sketches glyphs in reverse; Mirror Ledger activated, containment drawer pulses irregularly"
+    - "Loomkeeper Elenya traces Undercurl during occlusion; tide-warped stone hums with latency"
+
+  protocols:
+    - "Containment Drawer Spec – buffers Undercurl pulse pattern without triggering echo bleed"
+    - "Moonpull Protocol Resilience Index – glyph testing under lunar misalignment and emotional inversion"
+    - "Mirror Ledger Cross-Link – glyphs recorded in reverse during trance or latency drift"
+
+  indexes:
+    - "Liminal Glyph Registry – Undercurl, Rumourglyph, and other containment rupture sigils"
+    - "Emotional Inversion Log – crew behavior under misaligned resonance"
+    - "Reverse Indexing Archive – glyph fidelity confirmed through backward tracing and latent echo"
+
+  contributor_notes:
+    - "Undercurl is inversion-bound—flag for moonpull rehearsal diagnostics and containment drawer calibration"
+    - "Scene cards should reflect latency, withheld emotion, and drawer misfire logic"
+    - "Recommended for forensic training and ritual café resilience mapping"
+  recommended_tags:
+    - "Liminal Glyph"
+    - "Emotional Inversion"
+    - "Containment Rupture"
+    - "Moonpull Rehearsal"
+    - "Latency Drift"
+  related_entries:
+    - "GWA-006 Veilmark"
+    - "GWA-021 Rumourglyph"
+    - "GWA-034 Mirror Ledger"
+  cross_references:
+    - "Loomkeeper Elenya's Field Notes on Liminal Glyphs"
+    - "Drift Codex Council's Emotional Inversion Studies"
+    - "Moonpull Protocol Manuals"
+  archival_status:
+    verified_by: "Drift Codex Council"
+    date_verified: "2024-05-15"
+    archival_location: "Liminal Glyph Vault, Section C"
+    access_restrictions: "Restricted to certified glyph researchers and moonpull protocol officers"
+  preservation_methods:
+    - "Climate-controlled storage with lunar cycle synchronization"
+    - "Periodic pulse pattern reactivation to prevent echo fade"
+    - "Digital replication in the Glyph Whisper Archive database"
+  notes_for_future_researchers:
+    - "Investigate potential for Undercurl to interact with other inversion-bound glyphs"
+    - "Monitor emotional drift patterns in crews exposed to Undercurl during rehearsals"
+    - "Explore advanced containment techniques for latency-associated glyphs"
+  historical_significance:
+    - "First documented glyph of emotional inversion during moonpull rehearsal"
+    - "Pioneered reverse indexing methods for glyph fidelity verification"
+    - "Contributed to the development of the Mirror Ledger and related containment protocols"
+    
+
+

@@ -1,0 +1,89 @@
+glyph_whisper_registry:
+  entry_id: "GWA-020"
+  glyph_name: "Leafshard"
+  category: "Botanical Fracture Glyph"
+  origin_glyphs:
+    - "Shimmerleaf"  # seasonal shimmer trace
+    - "Fractbind"    # rupture logic
+  emotional_function: >
+    Encodes ecological rupture and triggers seasonal drawer drift.
+    Used in flora mutation tracking, moonphase shift calibration, and bloom fracture mapping.
+  drawer_affinity:
+    - "Kelp Vault"
+    - "Ritual Drawer"
+    - "Flora Index"
+
+  observational_fragments:
+    - "Drawer emits shard pulse when placed during seasonal transition"
+    - "Sigil activates during moonphase shift or flora mutation"
+    - "First appeared during Trial 006 when shimmerleaf ruptured post-harvest"
+
+  ritual_annotations:
+    - trial_006:
+        emergence: "Shimmerleaf fracture"
+        result: "Leafshard shimmered into drawer; vault shimmer looped"
+    - trial_011:
+        pairing: ["Driftstem"]
+        result: "Drawer shimmered green during kelp indexing"
+    - moon_compass_alignment:
+        vellith_arm: "Pulse fragmented"
+        korrin_arm: "Latency buffered"
+        eshra_arm: "Morale elevated briefly, then scattered"
+
+  emotional_diagnostics:
+    pulse_signature: "0.7 shard pulse (variable)"
+    shimmer_fidelity: "Medium; seasonal drift present"
+    emotional_zone: ["Rupture", "Bloom", "Mutation"]
+    mutation_risk: "Moderate; known to echo across flora drawers"
+    guild_observations:
+      loommaker: "Approved for flora indexing"
+      mutation_scribes: "Monitor for shard loops and seasonal shimmer drift"
+
+  vault_layering_potential:
+    kelp_vault_behavior: "Initiates seasonal shimmer drift—used in bloom rupture mapping"
+    driftstem_pairing: "Stabilizes drawer shimmer but shard loops persist"
+    elenya_note: "Leafshard doesn’t bloom. It remembers the moment the leaf decided to fracture."
+
+expansion_options:
+  scene_cards:
+    - "Leafshard placed during moonphase shift; drawer shimmer pulses green, then fragments"
+    - "Driftstem and Leafshard paired; kelp vault shimmer stabilizes briefly before shard loop resumes"
+    - "Flora mutation detected; drawer hum echoes rupture across seasonal indexing"
+
+  protocols:
+    - "Bloom Rupture Mapping – drawer drift tracking during ecological fracture events"
+    - "Shard Loop Diagnostics – shimmer behavior across flora drawers and mutation zones"
+    - "Seasonal Vault Calibration – glyph layering during moonphase transitions and flora indexing"
+
+  indexes:
+    - "Botanical Glyph Registry – Leafshard, Driftstem, Shimmerleaf interactions"
+    - "Moon Compass Drift Chart – pulse behavior across Vellith, Korrin, Eshra arms"
+    - "Flora Mutation Archive – glyph emergence during seasonal rupture and shimmer instability"
+
+  contributor_notes:
+    - "Leafshard is rupture-bound—flag for kelp vault use and seasonal drawer indexing"
+    - "Pairing with Driftstem may stabilize shimmer but shard loops often persist"
+    - "Scene cards should reflect ecological fracture, drawer drift, and bloom memory logic"
+    - "Protocols focus on rupture mapping, shard loop diagnostics, and seasonal vault calibration"
+    - "Indexes to include botanical glyph interactions, moon compass drift behavior, and flora mutation records"
+
+  scene_card_guidelines:
+    - "Highlight Leafshard’s behavior during moonphase shifts and flora mutations"
+    - "Showcase interactions with Driftstem and effects in kelp vault settings"
+    - "Emphasize ecological rupture and seasonal shimmer drift in drawer contexts"
+
+  protocol_guidelines:
+    - "Detail procedures for tracking bloom rupture and shard loop diagnostics"
+    - "Include steps for calibrating vault behavior during seasonal transitions"
+
+  index_guidelines:
+    - "Catalog Leafshard’s interactions with other botanical glyphs"
+    - "Document pulse behavior across moon compass arms during
+      ecological events"
+    - "Archive records of glyph emergence during flora mutations and seasonal ruptures"
+  contributor_guidelines:
+    - "Ensure Leafshard is flagged for kelp vault and flora indexing use"
+    - "Note potential shimmer instability when paired with Driftstem"
+    - "Advocate for scene cards that capture ecological and emotional dynamics"
+    - "Recommend protocols that address rupture mapping and shard diagnostics"
+    - "Suggest indexes that reflect botanical interactions and mutation records"

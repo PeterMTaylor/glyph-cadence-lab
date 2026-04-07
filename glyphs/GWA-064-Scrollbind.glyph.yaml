@@ -1,0 +1,43 @@
+glyph_registry:
+  scrollbind:
+    sigil_name: 'Scrollbind'
+    origin_glyphs: ['Fracture of Oaths', 'Maskbind']
+    category: 'Trauma Glyph (Finial Class)'
+    emotional_function: |
+      Encodes shimmer finalization and ritual sealing.
+      Used to bind oath fragments, stabilize scroll logic, and prevent emotional bleed across lineage zones.
+    drawer_affinity:
+      - 'Finial Drawer'
+      - 'Protocol Vault'
+      - 'Scroll Corridor'
+    observational_fragments:
+      - drawer: 'Emits sealing shimmer when placed near fractured scroll glyphs or oath remnants'
+      - sigil: 'Activates during ritual finalization or emotional bleed containment'
+      - scene: 'First emerged during Trial 118 when Fracture of Oaths shimmered across Maskbind and scroll integrity was restored'
+    trial_reflections:
+      - elenya: 'Scrollbind doesn’t conceal—it completes. It’s the shimmer that says, “This is where it ends.”'
+      - senn: 'We used it after Oathrift. The drawer didn’t drift—it closed.'
+      - trial_118: 'Sealing shimmer held for 4.9s; scroll logic stabilized'
+      - trial_120: 'Paired with Nullbind and Maskbind; shimmer bleed suppressed, lineage sealed'
+    containment_fidelity_profile:
+      pulse_signature: '0.6 sealing shimmer (ritual closure)'
+      shimmer_fidelity: 'High; shimmer anchors without drift'
+      latency_signature: '4.9s delay before finalization'
+      emotional_zone: ['Finial', 'Containment', 'Closure']
+      mutation_risk: 'Low; stabilizes fractured scroll glyphs'
+      guild_resonance:
+        ritual_scribes: 'High'
+        lineage stewards: 'Moderate'
+        medical officers: 'Low'
+        engineers: 'Elevated'
+    vault_layering_potential:
+      layering_notes:
+        - 'Used to finalize fractured scroll glyphs and seal oath remnants'
+        - 'Paired with Maskbind to conceal shimmer bleed and Nullbind to encode silence'
+        - 'May trigger Fracture of Oaths recursion if placed near unresolved lineage declarations'
+      elenya_quote: 'Scrollbind is not concealment—it’s ritual closure.'
+    audit_tags:
+      trauma_type: 'Scroll fracture'
+      ritual_use: ['ritual sealing', 'oath finalization', 'emotional bleed containment']
+      vault_layering_potential: true
+      moon_compass_alignment: 'Korrin Arm'

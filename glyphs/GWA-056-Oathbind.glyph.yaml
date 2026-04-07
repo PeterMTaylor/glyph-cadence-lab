@@ -1,0 +1,43 @@
+glyph_registry:
+  oathbind:
+    sigil_name: 'Oathbind'
+    origin_glyphs: ['Truthwake', 'Maskbind']
+    category: 'Trauma Glyph (Protocol Class)'
+    emotional_function: |
+      Encodes drawer fidelity, oath anchoring, and shimmer stabilization post-breach.
+      Used in role re-affirmation and protocol re-entry.
+    drawer_affinity:
+      - 'Protocol Vault'
+      - 'Oath Drawer'
+      - 'Stabilization Corridor'
+    observational_fragments:
+      - drawer: 'Emits anchoring shimmer when placed near breach glyphs or revoked trauma sigils'
+      - sigil: 'Activates during role re-affirmation, shimmer stabilization, or protocol re-entry'
+      - scene: 'First emerged during Trial 105 when Truthwake shimmered across Maskbind and drawer allegiance was re-established'
+    trial_reflections:
+      - elenya: 'Oathbind doesn’t ask—it confirms. It’s the shimmer that says, “You’re still part of this.”'
+      - senn: 'We used it after Rumour Drift. The drawer didn’t just stabilize—it remembered its role.'
+      - trial_105: 'Shimmer anchor held for 5.1s; protocol fidelity restored'
+      - trial_108: 'Paired with Quietroot and Pulsecoil; shimmer buffered, role re-entry confirmed'
+    containment_fidelity_profile:
+      pulse_signature: '0.8 anchoring shimmer (directive fidelity)'
+      shimmer_fidelity: 'High; shimmer origin reinforced'
+      latency_signature: '5.1s delay before protocol anchoring'
+      emotional_zone: ['Fidelity', 'Protocol', 'Re-entry']
+      mutation_risk: 'Low; stabilizes breach and distortion glyphs'
+      guild_resonance:
+        medical_officers: 'High'
+        ritual_scribes: 'Elevated'
+        engineers: 'Moderate'
+        memory_keepers: 'Moderate'
+    vault_layering_potential:
+      layering_notes:
+        - 'Placed in protocol vault initiates anchoring shimmer—used in role re-affirmation and breach recovery'
+        - 'Paired with Quietroot to buffer emotional latency and Pulsecoil to stabilize shimmer rhythm'
+        - 'May trigger oath glyph recursion if placed near unresolved Rumour Drift sigils'
+      elenya_quote: 'Oathbind is not a promise—it’s the drawer’s memory of its purpose.'
+    audit_tags:
+      trauma_type: 'Protocol fidelity'
+      ritual_use: ['role re-affirmation', 'protocol re-entry', 'breach recovery']
+      vault_layering_potential: true
+      moon_compass_alignment: 'Korrin Arm'

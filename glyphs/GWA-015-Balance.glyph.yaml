@@ -1,0 +1,83 @@
+glyph_whisper_registry:
+  entry_id: "GWA-015"
+  glyph_name: "Balance"
+  category: "Counterweight Glyph"
+  origin_glyphs:
+    - "Forkline"  # bifurcation trace
+    - "Stillthread"  # latency buffer
+  emotional_function: >
+    Stabilizes emotional bifurcation and restores drawer cadence.
+    Used in helm drawer calibration, lineage tension rituals, and protocol drift containment.
+  drawer_affinity:
+    - "Helm Drawer"
+    - "Ritual Café Index"
+    - "Compass Vault"
+
+  observational_fragments:
+    - "Drawer emits low hum when placed after fork_glyph rupture"
+    - "Sigil activates during lineage tension or protocol drift"
+    - "Used during Trial 013 to prevent compass arm misalignment"
+
+  ritual_annotations:
+    - trial_013:
+        placement: "Helm Drawer"
+        result: "Drawer cadence restored after fork_glyph misfire"
+    - trial_016:
+        pairing: ["Driftwell"]
+        result: "Shimmer fidelity held during moonpull rehearsal"
+    - moon_compass_alignment:
+        vellith_arm: "Pulse stabilized"
+        korrin_arm: "Latency buffered"
+        eshra_arm: "Morale harmonized"
+
+  emotional_diagnostics:
+    pulse_signature: "0.9 hum resonance (stable)"
+    shimmer_fidelity: "High; drawer drift prevented"
+    emotional_zone: ["Tension", "Restoration", "Lineage"]
+    mutation_risk: "Low; buffers fork_glyph instability"
+    guild_observations:
+      loommaker: "Approved for helm indexing"
+      quartermasters: "Used during shift calibration and protocol drift mapping"
+
+  vault_layering_potential:
+    compass_vault_behavior: "Prevents arm misalignment during moonphase drift"
+    stillthread_pairing: "Extends drawer latency and dissolves shimmer loops"
+    elenya_note: "Balance doesn’t choose sides. It listens until the drawer remembers where it began."
+
+file_67_expansion_options:
+  scene_cards:
+    - "Balance placed after fork_glyph rupture; drawer hum stabilizes lineage tension"
+    - "Moonpull rehearsal begins; Driftwell and Balance hold shimmer fidelity across compass arms"
+    - "Protocol drift detected; Balance restores helm drawer cadence before shift escalation"
+
+  protocols:
+    - "Protocol Drift Index – glyphs used to stabilize drawer logic during emotional bifurcation"
+    - "Compass Vault Calibration – arm alignment tracking and counterweight glyph layering"
+    - "Lineage Restoration Protocol – drawer cadence mapping during ancestral tension rituals"
+
+  indexes:
+    - "Counterweight Glyph Registry – Balance, Stillthread, and bifurcation stabilizers"
+    - "Moon Compass Drift Chart – pulse behavior across Vellith, Korrin, Eshra arms"
+    - "Drawer Restoration Log – glyphs that reset cadence and dissolve shimmer loops"
+
+  contributor_notes:
+    - "Balance is bifurcation-sensitive—flag for helm drawer use and protocol drift containment"
+    - "Pairing with Stillthread enhances latency buffering and shimmer loop resolution"
+    - "Scene cards should reflect drawer misalignment, emotional restoration, and compass arm recalibration"
+  cross_references:
+    - "Glyph_Whisper_Archive_Entry_007_Forkline.yaml"
+    - "Glyph_Whisper_Archive_Entry_012_Stillthread.yaml"
+    - "Glyph_Whisper_Archive_Entry_020_Driftwell.yaml"
+  related_entries:
+    - "GWA-007"
+    - "GWA-012"
+    - "GWA-020"
+  tags:
+    - "Counterweight Glyph"
+    - "Helm Drawer"
+    - "Lineage Tension"
+    - "Protocol Drift"
+    - "Compass Vault"
+  last_updated: "2024-06-15"
+  version: "1.0"
+  

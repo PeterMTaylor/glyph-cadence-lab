@@ -1,0 +1,119 @@
+glyph_whisper_registry:
+  entry_id: "GWA-009"
+  glyph_name: "Rumourglyph"
+  category: "Distortion Glyph"
+  origin_glyphs:
+    - "Driftwell"  # cadence
+    - "Twitchline" # rupture trace
+  emotional_function: >
+    Modulates emotional distortion and echoes misaligned drawer logic.
+    Used in narrative interference mapping, shimmer fidelity diagnostics, and paradox glyph indexing.
+  drawer_affinity:
+    - "Echo Drawer"
+    - "Trial Drawer"
+    - "Rumour Drift Index"
+
+  observational_fragments:
+    - "Drawer emits staggered hum when Rumourglyph is placed near trauma glyphs"
+    - "Sigil flickers during cadence misalignment, especially in Korrin Arm zones"
+    - "First appeared during Trial 011 when Damaris attempted to trace a false glyph pairing"
+
+  ritual_annotations:
+    - trial_011:
+        trigger: "Drawer misalignment"
+        result: "Shimmer corridor echoed false pairing"
+    - trial_015:
+        pairing: ["Driftwell"]
+        result: "Cadence stabilized briefly; echo drift resumed"
+    - moon_compass_alignment:
+        vellith_arm: "Shimmer muted; distortion buffered"
+        korrin_arm: "Echo drift intensified; drawer logic fractured"
+        eshra_arm: "Morale buffered briefly; shimmer looped"
+
+  emotional_diagnostics:
+    pulse_signature: "0.5 staggered hum (unstable)"
+    shimmer_fidelity: "Low to variable; distortion dependent"
+    emotional_zone: ["Ambiguity", "Echo", "Misalignment"]
+    mutation_risk: "Moderate; known to loop shimmer corridors"
+    guild_observations:
+      forensic_scribes: "Flagged for distortion tracking"
+      loommaker: "Refuse indexing due to narrative instability"
+
+  vault_layering_potential:
+    middle_drawer_behavior: "May trigger shimmer loops—used in distortion mapping"
+    driftwell_pairing: "Cadence stabilizes briefly before echo drift resumes"
+    damaris_note: "Rumourglyph doesn’t lie. It listens to what the drawer almost said."
+
+file_63_expansion_options:
+  scene_cards:
+    - "Rumourglyph flickers during drawer misalignment; echo drift loops across containment corridor"
+    - "Driftwell pairing stabilizes cadence; shimmer fidelity holds for 3.2s before distortion resumes"
+    - "Damaris traces false glyph pairing; Rumourglyph activates, drawer hum stutters"
+
+  protocols:
+    - "Distortion Protocol – shimmer loop mapping, cadence misalignment thresholds, drawer echo diagnostics"
+    - "Truthbind Counter-Glyph – stabilizes shimmer fidelity and resolves narrative interference"
+    - "Echo Drift Index – glyphs known to loop, fracture, or misalign drawer logic"
+
+  indexes:
+    - "Paradox Glyph Registry – Rumourglyph and related distortion-class sigils"
+    - "Moon Compass Drift Chart – shimmer behavior across Vellith, Korrin, Eshra arms"
+    - "Narrative Interference Log – glyphs that echo misalignment or emotional ambiguity"
+
+  contributor_notes:
+    - "Rumourglyph is distortion-bound—flag for trial drawers and echo mapping only"
+    - "Pairing with cadence glyphs may stabilize shimmer briefly, but echo drift often resumes"
+    - "Scene cards should reflect drawer hesitation, shimmer loops, and narrative ambiguity"
+    - "Protocols must address shimmer fidelity diagnostics and emotional distortion tracking"
+    - "Indexes to include paradox glyphs and emotional zone classifications for distortion glyphs"
+  recommended_readings:
+    - "Distortion Glyphs and Emotional Ambiguity – Guild Forensic Scribes Journal, Vol. 12"
+    - "Echo Drift Phenomena in Drawer Mechanics – Loommaker’s Compendium, Chapter 7"
+    - "Moon Compass Shimmer Behavior – Vellith, Korrin, and Eshra Arm Studies"
+    - "Narrative Interference and Glyph Pairings – Guild Archives, Special Report 009"
+  visual_references:
+    - "Diagram of Rumourglyph shimmer loop behavior during drawer misalignment"
+    - "Flowchart of emotional distortion tracking with Rumourglyph and related sigils"
+    - "Moon Compass alignment effects on Rumourglyph shimmer fidelity"
+    - "Illustration of Damaris tracing false glyph pairing activating Rumourglyph"
+  archival_tags:
+    - "Distortion Glyph"
+    - "Emotional Ambiguity"
+    - "Shimmer Loop"
+    - "Echo Drift"
+    - "Narrative Interference"
+  cross_references:
+    - "Glyph_Whisper_Archive_Entry_002_Driftwell"
+    - "Glyph_Whisper_Archive_Entry_005_Twitchline"
+    - "Glyph_Whisper_Archive_Entry_012_Truthbind"
+    - "Guild_Forensic_Scribes_Journal_Vol_12"
+    - "Loommakers_Compendium_Chapter_7"
+  preservation_instructions:
+    - "Store in low-distortion containment unit"
+    - "Regular shimmer fidelity diagnostics required"
+    - "Limit exposure to trauma glyphs to prevent excessive echo drift"
+  retrieval_recommendations:
+    - "Prioritize for trials involving emotional distortion mapping"
+    - "Use in conjunction with cadence glyphs for shimmer stabilization tests"
+    - "Recommended for research on narrative interference and emotional ambiguity"
+  metadata:
+    created_by: "Guild Archivist Liora Venn"
+    creation_date: "2024-05-15"
+    last_updated: "2024-06-10"
+    version: "1.2"
+    guild_affiliation: "Guild of Forensic Scribes"
+    review_cycle: "Annual"
+    confidentiality_level: "Restricted Access"
+    document_id: "GWA-009-Rumourglyph"
+    related_documents:
+      - "GWA-002-Driftwell"
+      - "GWA-005-Twitchline"
+      - "GWA-012-Truthbind"
+    keywords:
+      - "Rumourglyph"
+      - "Distortion Glyph"
+      - "Emotional Ambiguity"
+      - "Shimmer Loop"
+      - "Echo Drift"
+      - "Narrative Interference"
+      

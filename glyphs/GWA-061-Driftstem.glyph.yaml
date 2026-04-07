@@ -1,0 +1,43 @@
+glyph_registry:
+  driftstem:
+    sigil_name: 'Driftstem'
+    origin_glyphs: ['Murmur', 'Shardbind']
+    category: 'Trauma Glyph (Dispersal Class)'
+    emotional_function: |
+      Encodes shimmer dispersal and latency elongation.
+      Used in emotional softening, rupture avoidance, and drawer drift mapping.
+    drawer_affinity:
+      - 'Drift Drawer'
+      - 'Silence Vault'
+      - 'Latency Corridor'
+    observational_fragments:
+      - drawer: 'Emits dispersal shimmer when placed near latency glyphs or rupture-prone zones'
+      - sigil: 'Activates during shimmer meandering or emotional softening rituals'
+      - scene: 'First emerged during Trial 093 when Murmur shimmered across Shardbind and rupture was avoided'
+    trial_reflections:
+      - elenya: 'Driftstem doesn’t hold—it wanders. It’s the shimmer that refuses to settle.'
+      - senn: 'We used it after Murmur. The drawer didn’t rupture—it drifted.'
+      - trial_093: 'Shimmer dispersal lasted 7.1s; rupture avoided, latency elongated'
+      - trial_096: 'Paired with Quietroot and Breathlock; shimmer buffered, emotional drift mapped'
+    containment_fidelity_profile:
+      pulse_signature: '0.2 dispersal shimmer (meandering drift)'
+      shimmer_fidelity: 'Moderate; shimmer disperses without anchoring'
+      latency_signature: '7.1s delay before shimmer resolution'
+      emotional_zone: ['Drift', 'Latency', 'Softening']
+      mutation_risk: 'Low; stabilizes rupture glyphs and shimmer surges'
+      guild_resonance:
+        medical_officers: 'Moderate'
+        ritual_scribes: 'Elevated'
+        engineers: 'Low'
+        memory_keepers: 'High (used in drawer drift mapping)'
+    vault_layering_potential:
+      layering_notes:
+        - 'Placed in drift drawer initiates shimmer dispersal—used in emotional softening and rupture avoidance'
+        - 'Paired with Quietroot to deepen latency and Breathlock to buffer shimmer thresholds'
+        - 'May trigger Murmur recursion if shimmer exceeds 8s without resolution'
+      elenya_quote: 'Driftstem is not containment—it’s shimmer that chooses not to arrive.'
+    audit_tags:
+      trauma_type: 'Emotional dispersal'
+      ritual_use: ['rupture avoidance', 'drawer drift mapping', 'latency elongation']
+      vault_layering_potential: true
+      moon_compass_alignment: 'Vellith Arm'

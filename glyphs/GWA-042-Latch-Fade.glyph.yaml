@@ -1,0 +1,42 @@
+glyph_registry:
+  latch_fade:
+    sigil_name: 'Latch Fade'
+    origin_glyphs: ['Thread Holler', 'Quietbind']
+    category: 'Trauma Glyph'
+    emotional_function: |
+      Encodes disengagement and drawer detachment.
+      Used in fade mapping and emotional infrastructure collapse.
+    drawer_affinity:
+      - 'Fade Vault'
+      - 'Tether Drawer'
+      - 'Disengagement Corridor'
+    observational_fragments:
+      - drawer: 'Emits soft detachment pulse when placed near tether glyphs'
+      - sigil: 'Activates during emotional fade or infrastructure dissolution'
+      - scene: 'First noted during Trial 039 when Thread Holler ruptured and Quietbind failed to re-anchor'
+    trial_reflections:
+      - elenya: 'Latch Fade doesn’t rupture—it releases. It’s the sigh after the scream.'
+      - senn: 'We watched the tether dissolve. No shimmer, no echo. Just absence.'
+      - trial_039: 'Fade pulse lasted 2.9s; drawer detachment confirmed'
+      - trial_042: 'Paired with Driftroot and Maskbind; fade buffered, emotional latency mapped'
+    containment_fidelity_profile:
+      pulse_signature: '0.3 fade hum (detachment pulse)'
+      shimmer_fidelity: 'None; shimmer absent, fade dominant'
+      latency_signature: '2.9s disengagement delay before fade'
+      emotional_zone: ['Disengagement', 'Fade', 'Collapse']
+      mutation_risk: 'Low; fade is stable unless re-tethered'
+      guild_resonance:
+        ritual_scribes: 'Moderate'
+        engineers: 'Low'
+        memory_keepers: 'High (used in infrastructure dissolution logs)'
+    vault_layering_potential:
+      layering_notes:
+        - 'Placed in fade vault initiates detachment hum—used in emotional infrastructure collapse mapping'
+        - 'Requires pairing with Maskbind or Driftroot for fade buffering'
+        - 'May trigger tether rupture if paired with echo glyphs'
+      elenya_quote: 'Latch Fade is the drawer that closes itself. Not with force, but with forgetting.'
+    audit_tags:
+      trauma_type: 'Fade detachment'
+      ritual_use: ['infrastructure collapse', 'fade mapping']
+      vault_layering_potential: true
+      moon_compass_alignment: 'Eshra Arm'

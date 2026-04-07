@@ -1,0 +1,82 @@
+glyph_whisper_registry:
+  entry_id: "GWA-024"
+  glyph_name: "Linefract"
+  category: "Fracture Glyph"
+  origin_glyphs:
+    - "Forkline"     # lineage divergence
+    - "Fraypulse"    # shimmer rupture trace
+  emotional_function: >
+    Breaks lineage continuity and introduces shimmer rupture.
+    Used to map emotional collapse, protocol failure, and recursive shimmer bleed across trial drawers.
+  drawer_affinity:
+    - "Mutation Drawer"
+    - "Trial Vault"
+    - "Scene Card Index"
+
+  observational_fragments:
+    - "Drawer emits rupture shimmer when placed near oath glyphs"
+    - "Sigil flickers during emotional overload or protocol collapse"
+    - "Emerged during Trial 010 when drawer shimmered post-lineage fracture"
+
+  ritual_annotations:
+    - trial_010:
+        emergence: "Forkline rupture"
+        result: "Linefract shimmered into drawer; shimmer bleed intensified"
+    - trial_013:
+        pairing: ["Veilfract"]
+        result: "Emotional rupture mapped; shimmer fidelity partially clarified"
+    - moon_compass_alignment:
+        vellith_arm: "Containment failed"
+        korrin_arm: "Trauma glyphs activated"
+        eshra_arm: "Morale collapsed"
+
+  emotional_diagnostics:
+    pulse_signature: "0.4 rupture shimmer (unstable)"
+    shimmer_fidelity: "Low; drawer rupture loops present"
+    emotional_zone: ["Fracture", "Collapse", "Mutation"]
+    mutation_risk: "High; known to echo across lineage drawers"
+    guild_observations:
+      mutation_scribes: "Flagged for recursive indexing and shimmer rupture tracking"
+      loommaker: "Refuse to index due to emotional instability and lineage volatility"
+
+  vault_layering_potential:
+    mutation_drawer_behavior: "Creates shimmer rupture—used in lineage collapse mapping and protocol failure diagnostics"
+    veilfract_pairing: "Intensifies shimmer bleed but clarifies emotional fidelity during collapse"
+    elenya_note: "Linefract doesn’t break the drawer. It remembers the moment the oath forgot itself."
+
+expansion_options:
+  scene_cards:
+    - "Linefract shimmer pulses erratically as drawer ruptures post-lineage fracture"
+    - "Paired with Veilfract, shimmer bleed intensifies; emotional collapse mapped across trial vault"
+    - "Crew oath forgotten; drawer hum fractures, mutation glyphs echo across scene card index"
+
+  protocols:
+    - "Lineage Collapse Mapping – shimmer rupture tracking during protocol failure and emotional overload"
+    - "Fracture Glyph Diagnostics – drawer behavior during oath collapse and shimmer bleed"
+    - "Trial Vault Containment – glyph layering during recursive indexing and mutation risk calibration"
+
+  indexes:
+    - "Fracture Glyph Registry – Linefract, Veilfract, Forkline interactions"
+    - "Lineage Rupture Archive – shimmer bleed logs and emotional collapse traces"
+    - "Scene Card Mutation Index – flagged entries from drawer rupture and protocol failure"
+
+  contributor_notes:
+    - "Linefract is rupture-bound—flag for mutation drawer use and lineage collapse diagnostics"
+    - "Pairing with Veilfract may intensify shimmer bleed but clarify emotional fidelity"
+    - "Scene cards should reflect drawer rupture, oath collapse, and shimmer instability across lineage"
+  cross_references:
+    - "GWA-012: Veilfract"
+    - "GWA-008: Forkline"
+    - "GWA-030: Fraypulse"
+  recommended_reading:
+    - "The Dynamics of Fracture Glyphs in Mutation Drawers"
+    - "Shimmer Rupture and Emotional Collapse: A Guild Scribe's Guide"
+    - "Lineage Discontinuity and Protocol Failure in Trial Vaults"
+  archival_tags:
+    - "Fracture Glyph"
+    - "Lineage Rupture"
+    - "Shimmer Bleed"
+    - "Mutation Drawer"
+    - "Trial Vault"
+  last_updated: "2024-06-15"
+  version: "1.0"

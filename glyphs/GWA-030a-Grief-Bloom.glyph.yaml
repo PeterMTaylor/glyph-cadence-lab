@@ -1,0 +1,45 @@
+glyph_registry:
+  grief_bloom:
+    sigil_name: 'Grief Bloom'
+    origin_glyphs: ['Leafchant', 'Breathbind']
+    category: 'Trauma Glyph'
+    emotional_function: |
+      Encodes sorrow into bloom logic.
+      Used in grief ceremonies and emotional rupture mapping.
+    drawer_affinity:
+      - 'Ritual Drawer'
+      - 'Flora Vault'
+      - 'Trauma Corridor'
+    observational_fragments:
+      - drawer: 'Emits bloom shimmer when placed during grief rites or post-loss rituals'
+      - sigil: 'Activates during emotional release, lineage mourning, or morale collapse'
+      - scene: 'First appeared during Trial 014 when crew performed bloom ritual after drawer rupture'
+    trial_reflections:
+      - elenya: 'Grief Bloom pulses before it ruptures. Senn buffered it with Driftstem, but latency held.'
+      - senn: 'Drawer shimmer looped twice before containment held. Bloom resisted Quietroot alone.'
+      - trial_014: 'Bloom shimmered across corridor; shimmer fidelity partial without dual glyph pairing'
+      - trial_018: 'Paired with Quietroot and Murmur; shimmer stabilized, morale buffered'
+    containment_fidelity_profile:
+      pulse_signature: '1.1 bloom shimmer (variable)'
+      shimmer_fidelity: 'Medium; grief drift present'
+      latency_signature: '1.2s drawer delay before shimmer loop'
+      emotional_zone: ['Sorrow', 'Bloom', 'Release']
+      mutation_risk: 'Moderate; may trigger shard glyphs'
+      guild_resonance:
+        medical_officers: 'High'
+        ritual_scribes: 'Moderate'
+        loomkeepers: 'Low (resists flora indexing)'
+    vault_layering_potential:
+      layering_notes:
+        - 'Placed in ritual drawer initiates bloom shimmer—used in mourning protocol mapping'
+        - 'Requires pairing with Quietroot or Driftstem for full containment'
+        - 'May trigger shard glyphs if drawer latency exceeds 1.5s'
+      elenya_quote: 'Grief Bloom doesn’t mourn. It opens where sorrow is ready to be seen.'
+    audit_tags:
+      trauma_type: 'Bloom latency'
+      ritual_use: ['mourning protocol', 'emotional rupture mapping']
+      vault_layering_potential: true
+      moon_compass_alignment: 'Eshra Arm'
+
+
+

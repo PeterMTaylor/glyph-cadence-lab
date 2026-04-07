@@ -1,0 +1,47 @@
+glyph_whisper_archive:
+  entry_id: '010'
+  sigil_name: 'Truthbind'
+  origin_glyphs:
+    - 'Veilmark'
+    - 'Echostep'
+  category: 'Resonance Glyph'
+  emotional_function: 'Anchors drawer logic, stabilizes shimmer fidelity, counters distortion'
+  drawer_affinity:
+    - 'Trial Drawer'
+    - 'Archive Drawer'
+    - 'Forensic Index'
+  observational_fragments:
+    - drawer: 'Emits steady hum when Truthbind is placed after Rumourglyph'
+    - sigil: 'Flickers briefly, then stabilizes during cadence alignment'
+    - scene: 'Used by Damaris in Trial 016 to resolve shimmer mimicry and confirm glyph origin'
+  ritual_annotations:
+    - trial_016: 'Placed after Rumourglyph; drawer shimmer stabilized, false pairing dissolved'
+    - trial_018: 'Paired with Echostep in archive drawer; lineage trace confirmed'
+    - moon_compass_alignment:
+        vellith_arm: 'Anchors shimmer without latency'
+        korrin_arm: 'Trauma glyphs softened; drawer logic restored'
+        eshra_arm: 'Morale buffered; cadence fidelity held'
+  emotional_diagnostics:
+    pulse_signature: '1.0 resonance hum (stable)'
+    shimmer_fidelity: 'Very High; shimmer mimicry dissolved'
+    emotional_zone:
+      - 'Truth'
+      - 'Lineage'
+      - 'Restoration'
+    mutation_risk: 'Minimal; stabilizes distortion glyphs'
+    guild_observations:
+      forensic_scribes: 'Approved for trial indexing'
+      loomkeepers: 'Added to lineage vaults'
+  vault_layering_potential:
+    layering_notes:
+      - 'Placed in final drawer of distortion vault seals shimmer loops and confirms glyph origin'
+      - 'Paired with Rumourglyph, drawer emits dual hum—used to trace emotional interference'
+      - damaris_quote: 'Truthbind doesn’t reveal truth. It listens until distortion gives up pretending.'
+  audit_tags:
+    trauma_type: 'Distortion resolution'
+    ritual_use:
+      - 'shimmer mimicry dissolution'
+      - 'lineage trace confirmation'
+      - 'drawer fidelity restoration'
+    vault_layering_potential: true
+    moon_compass_alignment: 'Vellith / Korrin / Eshra Arms'

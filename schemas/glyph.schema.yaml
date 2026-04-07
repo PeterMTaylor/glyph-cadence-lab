@@ -1,0 +1,55 @@
+glyph_id: string
+name: string
+family: string
+category: string
+
+lineage: struct<
+    primary: string,
+    secondary: string
+>
+
+origin_glyphs: list<string>
+
+function: struct<
+    emotional: string,
+    navigational: string,
+    distortion: string,
+    containment: string
+>
+
+signature: struct<
+    pulse: string,
+    activation: string,
+    shimmer_fidelity: string,
+    latency: string
+>
+
+affect: struct<
+    whisper: string,
+    trauma_residue: string,
+    wildcard: string
+>
+
+drawer_affinity: list<string>
+
+observational_fragments: list<string>
+
+rituals: list<struct<
+    ritual_id: string,
+    method: string,
+    pairing: list<string>,
+    exposure: string,
+    effect: string
+>>
+
+risk_profile: struct<
+    mutation: string,
+    emotional_zone: list<string>,
+    guild_resonance: list<struct<guild: string, level: string>>
+>
+
+vault_behavior: struct<
+    drawer_behavior: string,
+    pairing_behavior: string,
+    layering: list<string>
+>

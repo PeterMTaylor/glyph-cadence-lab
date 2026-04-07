@@ -1,0 +1,44 @@
+glyph_whisper_archive:
+  entry_id: '003'
+  glyph_name: 'Northrest'
+  category: 'Compass Glyph'
+  emotional_function: 'Anchors lineage tension, buffers emotional drift'
+  drawer_affinity:
+    - 'Foundational Drawer'
+    - 'Compass Drawer'
+    - 'Archive Drawer'
+  observational_fragments:
+    - drawer: 'Emits low hum when paired with Stillthread or Loomroot'
+    - glyph: 'Remains stable across moon compass shifts; latency increases during zone collapse'
+    - scene: 'Used by Elenya to stabilize trauma glyphs after Trial 3 rupture'
+  ritual_annotations:
+    - trial_003: 'Northrest placed in foundational drawer; shimmer corridor stabilized'
+    - trial_006: 'Paired with Loomroot; emotional buffering extended to three zones'
+    - moon_compass_alignment:
+        vellith_arm: 'Anchors lineage tension; shimmer latency preserved'
+        korrin_arm: 'Emotional drift slowed; trauma glyphs softened'
+        eshra_arm: 'Zone flags held steady; no rupture observed'
+  emotional_diagnostics:
+    pulse_signature: '0.1 latency hum (stable)'
+    shimmer_fidelity: 'High; shimmer corridor remains intact'
+    emotional_zone:
+      - 'Buffer'
+      - 'Anchor'
+      - 'Stillness'
+    mutation_risk: 'Low; known to resist shimmer bleed'
+    guild_observations:
+      loomkeepers: 'Treat Northrest as a sacred glyph'
+      trial_scribes: 'Note its resistance to improvisation'
+  vault_layering_potential:
+    layering_notes:
+      - 'Placed in bottom drawer of a vault creates a lineage anchor—used in foundational trials'
+      - 'Paired with Stillthread, vault shimmer becomes rhythmic, predictable'
+      - elenya_quote: 'Northrest doesn’t resist change. It remembers what came before.'
+  audit_tags:
+    trauma_type: 'Lineage buffering'
+    ritual_use:
+      - 'foundational trials'
+      - 'emotional drift stabilization'
+      - 'compass alignment'
+    vault_layering_potential: true
+    moon_compass_alignment: 'Vellith / Korrin / Eshra Arms'

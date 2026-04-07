@@ -1,0 +1,83 @@
+glyph_whisper_registry:
+  entry_id: "GWA-018"
+  glyph_name: "Shadow Vow"
+  category: "Shadow Glyph"
+  origin_glyphs:
+    - "Vow"  # emotional fidelity
+    - "Echo Fracture"  # shimmer rupture trace
+  emotional_function: >
+    Inverts oath logic and introduces surveillance and emotional haunt.
+    Used to track drawer misalignment, memory fog, and recursive shimmer loops during oath collapse.
+  drawer_affinity:
+    - "Mutation Drawer"
+    - "Mirror Ledger"
+    - "Trial Drawer"
+
+  observational_fragments:
+    - "Drawer emits echo bleed when placed after Vow rupture"
+    - "Sigil flickers during emotional inversion or memory fog"
+    - "Emerged during Trial 014 when drawer shimmered post-oath collapse"
+
+  ritual_annotations:
+    - trial_014:
+        emergence: "Drawer misalignment"
+        result: "Shadow Vow shimmered into existence; flagged in Mirror Ledger"
+    - trial_017:
+        pairing: ["Truthbind"]
+        result: "Drawer fidelity partially stabilized; echo bleed slowed"
+    - moon_compass_alignment:
+        vellith_arm: "Containment failed"
+        korrin_arm: "Trauma glyphs activated"
+        eshra_arm: "Morale collapsed"
+
+  emotional_diagnostics:
+    pulse_signature: "0.5 echo bleed (unstable)"
+    shimmer_fidelity: "Low; drawer shimmer loops present"
+    emotional_zone: ["Surveillance", "Haunt", "Inversion"]
+    mutation_risk: "High; known to echo across scene cards"
+    guild_observations:
+      mutation_scribes: "Flagged for recursive indexing"
+      loommaker: "Refuse to index due to emotional instability"
+
+  vault_layering_potential:
+    mutation_drawer_behavior: "Creates shimmer echo loops—used in oath inversion mapping"
+    truthbind_pairing: "Slows shimmer bleed; containment partial"
+    elenya_note: "Shadow Vow doesn’t break the oath. It watches what the drawer forgot to keep."
+
+cartographic_implications:
+  crew_ledger_indexer_response:
+    - "Flag drawer shimmer loops and trace oath collapse signatures"
+    - "Cross-reference Mirror Ledger entries with breath cadence logs"
+    - "Use Truthbind to stabilize drawer fidelity before indexing"
+    - "Mark emotional haunt zones for future calibration"
+  damaris_protocol:
+    - "Observe drawer hum for inversion cadence"
+    - "Sketch glyphs in reverse to trace emotional residue"
+    - "Consult Mirror Ledger for recursive shimmer patterns"
+    - "Prepare containment drawer with latency buffers and oath echo dampeners"
+
+expansion_options:
+  scene_cards:
+    - "Shadow Vow flickers during oath collapse; drawer shimmer loops echo across Mirror Ledger"
+    - "Damaris traces inverted glyphs; containment drawer pulses irregularly, Truthbind stabilizes briefly"
+    - "Crew member whispers forgotten oath; drawer hum fractures, mutation glyphs activate"
+
+  protocols:
+    - "Oath Inversion Protocol – glyph behavior during emotional haunt and drawer misalignment"
+    - "Mirror Ledger Indexing – recursive shimmer tracking and inverted glyph mapping"
+    - "Containment Drawer Calibration – latency buffers and echo bleed dampening for shadow glyphs"
+
+  indexes:
+    - "Shadow Glyph Registry – Shadow Vow, Rumourglyph, Undercurl interactions"
+    - "Echo Bleed Archive – shimmer loop behavior and containment failure logs"
+    - "Crew Ledger Haunt Index – flagged entries from oath collapse and emotional inversion"
+
+  contributor_notes:
+    - "Shadow Vow is inversion-bound—flag for mutation drawer use and Mirror Ledger indexing"
+    - "Pairing with Truthbind slows shimmer bleed but may not resolve emotional haunt"
+    - "Scene cards should reflect drawer misalignment, oath collapse, and recursive shimmer behavior"
+  references:
+    - "Trial 014 Logs – Shadow Vow emergence and Mirror Ledger flagging"
+    - "Moon Compass Alignment Reports – vellith, korrin, eshra arm outcomes"
+    - "Crew Ledger Indexing Guidelines – handling emotional haunt and oath inversion"
+    

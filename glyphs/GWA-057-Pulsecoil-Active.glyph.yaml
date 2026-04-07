@@ -1,0 +1,58 @@
+glyph_registry:
+  pulsecoil_active:
+    sigil_name: 'Pulsecoil'
+    variant: 'Active Stabilization'
+    origin_glyphs: ['Truthwake', 'Breathlock']
+    category: 'Trauma Glyph (Rhythm Class)'
+    emotional_function: |
+      Encodes shimmer rhythm stabilization and latency buffering.
+      Used in post-oath anchoring and breach recovery.
+    drawer_affinity:
+      - 'Rhythm Vault'
+      - 'Protocol Drawer'
+      - 'Stabilization Corridor'
+    observational_fragments:
+      - drawer: 'Emits rhythmic shimmer when placed near oath glyphs or latency drift zones'
+      - sigil: 'Activates during shimmer recalibration or emotional rhythm collapse'
+      - scene: 'First emerged during Trial 108 when Truthwake shimmer surged and Pulsecoil stabilized drawer latency'
+    trial_reflections:
+      - elenya: 'Pulsecoil doesn’t pulse—it regulates. It’s the drawer’s heartbeat after rupture.'
+      - senn: 'We used it after Oathbind. The shimmer didn’t surge—it settled.'
+      - trial_108: 'Shimmer rhythm held for 4.4s; latency buffered, protocol stabilized'
+      - trial_111: 'Paired with Quietroot and Oathbind; shimmer fidelity confirmed'
+    containment_fidelity_profile:
+      pulse_signature: '0.7 rhythmic shimmer (stabilizing)'
+      shimmer_fidelity: 'High; shimmer rhythm reinforced'
+      latency_signature: '4.4s delay before rhythm lock'
+      emotional_zone: ['Stabilization', 'Rhythm', 'Protocol']
+      mutation_risk: 'Low; buffers shimmer surges and latency drift'
+      guild_resonance:
+        medical_officers: 'High'
+        engineers: 'Elevated'
+        ritual_scribes: 'Moderate'
+        memory_keepers: 'Low'
+    vault_layering_potential:
+      layering_notes:
+        - 'Placed in rhythm vault initiates shimmer stabilization—used in post-oath anchoring and breach recovery'
+        - 'Paired with Quietroot to buffer latency and Oathbind to reinforce drawer fidelity'
+        - 'May trigger shimmer recursion if placed near unresolved Truthwake glyphs'
+      elenya_quote: 'Pulsecoil (Active) is the drawer’s breath—not its shimmer.'
+    variant_clarification:
+      naming_logic:
+        - variant_name: 'Pulsecoil (Active)'
+          emotional_context: 'Shimmer rhythm stabilization'
+          glyph_family: 'Protocol / Rhythm'
+          usage_domain: 'Used post-oath, breach recovery, latency buffering'
+        - variant_name: 'Pulsecoil (Dormant)'
+          emotional_context: 'Latency drift detection'
+          glyph_family: 'Echo / Silence'
+          usage_domain: 'Used in shimmer fade mapping, drawer quieting'
+        - variant_name: 'Pulsecoil (Recursive)'
+          emotional_context: 'Feedback loop tracing'
+          glyph_family: 'Drift / Echo'
+          usage_domain: 'Used in Rumour Drift recursion diagnostics'
+    audit_tags:
+      trauma_type: 'Rhythmic stabilization'
+      ritual_use: ['breach recovery', 'latency buffering', 'oath anchoring']
+      vault_layering_potential: true
+      moon_compass_alignment: 'Eshra Arm'

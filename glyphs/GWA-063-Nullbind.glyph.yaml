@@ -1,0 +1,104 @@
+trauma_glyph_registry:
+  entry_id: "TG-028"
+  sigil_name: "Nullbind"
+  origin_glyphs:
+    - "Silence Thread"
+    - "Faultroot"
+  category: "Trauma Glyph (Protocol Class)"
+  emotional_function: >
+    Formalizes shimmer absence into containment logic.
+    Used to stabilize null fields, prevent drawer rupture, and encode silence as protocol.
+  drawer_affinity:
+    - "Protocol Vault"
+    - "Latency Corridor"
+    - "Fault Archive"
+
+  observational_fragments:
+    - "Glyph emits structured null shimmer field; prevents emotional rupture during silence rituals"
+    - "First emerged during Trial 104 when Faultroot shimmered across Silence Thread and drawer latency stabilized"
+    - "Used by quartermasters to anchor emotional drift during vault recalibration"
+
+  trial_reflections:
+    - speaker: "Elenya"
+      quote: "Nullbind doesn’t suppress—it codifies. It’s silence with rules."
+    - speaker: "Senn"
+      quote: "We used it when Driftroot began to shimmer. The drawer held, but the silence felt… engineered."
+    - trial_104:
+        latency_hold: "7.2s"
+        result: "Faultroot shimmer stabilized"
+    - trial_107:
+        pairing: ["Quietbind", "Driftroot"]
+        result: "Shimmer drift contained, latency buffered"
+
+  containment_fidelity_profile:
+    pulse_signature: "Structured null shimmer (protocol-bound)"
+    shimmer_fidelity: "None; shimmer absence encoded as logic"
+    latency_signature: "7.2s delay before protocol activation"
+    emotional_zone: ["Silence", "Drift", "Fault"]
+    mutation_risk: "Low; stabilizes shimmer drift and fault rupture"
+    guild_resonance:
+      quartermasters: "High"
+      ritual_scribes: "Moderate"
+      fault_technicians: "Elevated"
+      engineers: "Elevated"
+
+  vault_layering_potential:
+    protocol_vault_behavior: "Initiates structured null shimmer; used in silence rituals and drift containment"
+    containment_pairing:
+      - "Faultroot: Stabilizes rupture shimmer"
+      - "Driftroot: Anchors shimmer drift during latency trials"
+      - "Quietbind: Encodes silence as protocol, not suppression"
+    collapse_risk: "Low unless paired with unbuffered rupture glyphs"
+    elenya_note: "Nullbind is the silence that knows its place. It doesn’t vanish—it holds."
+
+related_glyph_seeds:
+  - name: "Driftroot"
+    function: "Encodes shimmer drift; used in latency corridors and emotional buffering"
+    risk: "May trigger drawer float if not paired with Nullbind or Quietbind"
+    scene_reference: "Trial 097 – shimmer latency exceeded containment threshold"
+
+  - name: "Quietbind"
+    function: "Binds silence to emotional zones; used in ritual corridors and vault quieting"
+    affinity: ["Silence Thread", "Nullbind"]
+    note: "Used to soften shimmer suppression and encode emotional buffering"
+
+  - name: "Faultroot"
+    function: "Encodes rupture shimmer; used in fault archives and trauma glyph stabilization"
+    risk: "High mutation potential; must be paired with Nullbind to prevent drawer collapse"
+    scene_reference: "Trial 088 – drawer rupture triggered by Faultroot shimmer surge"
+
+file_58_expansion_options:
+  scene_cards:
+    - "Nullbind deployed during vault recalibration; shimmer drift anchored, silence protocol stabilized"
+    - "Faultroot shimmer surges mid-trial; Nullbind holds rupture field for 7.2s"
+    - "Quietbind fails to buffer latency; Nullbind encodes silence to prevent drawer collapse"
+
+  protocols:
+    - "Null Field Stabilization Protocol – shimmer absence layering and drift anchoring"
+    - "Drawer Collapse Prevention Index – glyph pairing thresholds and fault mitigation"
+    - "Silence Encoding Ritual – converting shimmer absence into protocol logic"
+
+  indexes:
+    - "Protocol Class Glyph Map – shimmer absence and latency containment comparison"
+    - "Trial Nullbind Activation Log – latency delay and rupture stabilization tracking"
+    - "Guild Resonance Matrix – role-based glyph response and protocol usage"
+
+  contributor_notes:
+    - "Nullbind is protocol-bound—flag for silence rituals and fault archive use"
+    - "Pairing must include drift or rupture stabilizers to prevent drawer collapse"
+    - "Scene cards should reflect shimmer absence logic and engineered silence behavior"
+  glossary_entries:
+    - term: "Nullbind"
+      definition: "A trauma glyph that encodes shimmer absence as structured protocol, used to stabilize null fields and prevent drawer rupture."
+    - term: "Structured Null Shimmer"
+      definition: "A shimmer signature characterized by the absence of shimmer, encoded as logical protocol rather than emotional suppression."
+    - term: "Latency Corridor"
+      definition: "A drawer environment where shimmer latency is managed and buffered using specific trauma glyphs like Nullbind."
+    - term: "Protocol Vault"
+      definition: "A specialized drawer designed to contain and manage trauma glyphs that encode shimmer absence and protocol logic."
+    - term: "Fault Archive"
+      definition: "A storage environment for trauma glyphs that manage rupture shimmer and prevent drawer collapse through stabilization protocols."
+  cross_references:
+    - "Glyph_Trauma_Entry_012_Driftroot.yaml"
+    - "Glyph_Trauma_Entry_015_Quietbind.yaml"
+    - "Glyph_Trauma_Entry_022_Faultroot.yaml"

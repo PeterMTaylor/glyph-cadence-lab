@@ -1,0 +1,59 @@
+glyph_whisper_registry:
+  entry_id: "GWA-005a"
+  glyph_name: "Twitchline"
+  category: "Rupture-Trace Glyph"
+
+  origin_glyphs:
+    - "Stillthread"   # latency, suspension, breath-hold
+    - "Truthbind"     # fidelity, inversion detection
+
+  emotional_function: >
+    Detects pre-rupture microshifts in drawer logic.
+    Captures the “almost-event” before shimmer breaks.
+    Used in narrative interference tracing, emotional inversion mapping,
+    and early-warning diagnostics for drawer misalignment.
+
+  drawer_affinity:
+    - "Scene Drawer"
+    - "Forensic Index"
+    - "Rupture Threshold Ledger"
+
+  observational_fragments:
+    - "Drawer flickers once when Twitchline detects a near-rupture event"
+    - "Sigil activates during emotional inversion or truth inversion attempts"
+    - "First observed when Twitch noted a drawer hesitation during Trial 006"
+
+  ritual_annotations:
+    trial_006:
+      trigger: "Drawer hesitation during trauma pairing"
+      result: "Twitchline flickered; rupture avoided by 0.4s"
+
+    trial_012:
+      pairing: ["Echobind"]
+      result: "Echo fidelity confirmed; rupture trace mapped"
+
+    moon_compass_alignment:
+      vellith_arm: "Detects micro-hesitations in kelp-rooted vaults"
+      korrin_arm: "Inversion pulses amplified; drawer logic exposed"
+      eshra_arm: "Wind-threaded cadence reveals pre-rupture hum"
+
+  emotional_diagnostics:
+    pulse_signature: "0.3 rupture-hum (pre-event)"
+    shimmer_fidelity: "Variable; stabilizes only during truth-aligned intervals"
+    emotional_zone:
+      - "Inversion"
+      - "Hesitation"
+      - "Pre-Rupture"
+    mutation_risk: "Low; does not cause rupture, only detects it"
+    guild_observations:
+      forensic_scribes: "Approved for rupture-trace indexing"
+      loommaker: "Caution advised—reveals drawer truths not meant for ritual use"
+
+  vault_layering_potential:
+    rupture_threshold_behavior: "Maps shimmer tension before rupture; used in containment forecasting"
+    truthbind_pairing: "Enhances fidelity detection; identifies inversion attempts with 85% accuracy"
+    stillthread_pairing: "Improves latency detection; identifies drawer hesitation with 90% accuracy"
+  next_steps:
+    - "Conduct controlled trials to map Twitchline response across all drawer types"
+    - "Integrate Twitchline data into rupture prediction algorithms"
+    - "Expand observational database with cross-guild collaboration"

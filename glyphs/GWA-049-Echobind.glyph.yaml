@@ -1,0 +1,42 @@
+glyph_registry:
+  echobind:
+    sigil_name: 'Echobind'
+    origin_glyphs: ['Maskbind', 'Truthwake']
+    category: 'Trauma Glyph'
+    emotional_function: |
+      Encodes emotional reverberation, ritual breach, and drawer echo logic.
+    drawer_affinity:
+      - 'Echo Chamber'
+      - 'Breach Corridor'
+      - 'Latency Vault'
+    observational_fragments:
+      - drawer: 'Activates when ritual concealment fails or emotional latency breaches containment'
+      - sigil: 'Emits echo shimmer; pulse is staggered and recursive'
+      - scene: 'First emerged during Trial 078 when Maskbind failed during a ritual audit, triggering drawer resonance'
+    trial_reflections:
+      - elenya: 'Echobind doesn’t rupture—it repeats. It’s the drawer’s way of saying, "You missed something."'
+      - senn: 'We didn’t hear it at first. But the shimmer kept returning. It wasn’t a glitch—it was memory.'
+      - trial_078: 'Maskbind breach triggered echo shimmer across three drawers'
+      - trial_080: 'Paired with Ghostroot and Truthwake; emotional latency mapped'
+    containment_fidelity_profile:
+      pulse_signature: '0.4 echo shimmer (recursive, staggered)'
+      shimmer_fidelity: 'High; shimmer repeats across drawer layers'
+      latency_signature: 'Elevated; activates post-concealment breach'
+      emotional_zone: ['Reverberation', 'Breach', 'Latency']
+      mutation_risk: 'Moderate; may trigger Truthwake or Shardbind'
+      guild_resonance:
+        memory_keepers: 'High'
+        ritual_scribes: 'Elevated'
+        engineers: 'Moderate'
+        whisper_technicians: 'High (used in echo tracing and breach diagnostics)'
+    vault_layering_potential:
+      layering_notes:
+        - 'Used to trace emotional latency breaches across drawer systems'
+        - 'Paired with Maskbind to monitor ritual concealment integrity'
+        - 'May trigger Truthwake if echo shimmer exceeds containment threshold'
+      elenya_quote: 'Echobind is the drawer’s memory. Not what was hidden—but what refused to stay hidden.'
+    audit_tags:
+      trauma_type: 'Echo breach'
+      ritual_use: ['latency tracing', 'ritual concealment diagnostics']
+      vault_layering_potential: true
+      moon_compass_alignment: 'Eshra Arm'

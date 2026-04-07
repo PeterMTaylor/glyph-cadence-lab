@@ -1,0 +1,44 @@
+glyph_registry:
+  hollow_bind:
+    sigil_name: 'Hollow Bind'
+    origin_glyphs: ['Latch Fade', 'Maskbind']
+    category: 'Trauma Glyph'
+    emotional_function: |
+      Encodes emotional absence and containment mimicry.
+      Used in false anchoring and ritual compliance zones.
+    drawer_affinity:
+      - 'Mimic Vault'
+      - 'Ghost Drawer'
+      - 'Compliance Corridor'
+    observational_fragments:
+      - drawer: 'Emits faint containment hum with no emotional payload'
+      - sigil: 'Activates during ritual compliance or protocol mimicry'
+      - scene: 'First noted during Trial 045 when Latch Fade was re-bound with Maskbind under false grief conditions'
+    trial_reflections:
+      - elenya: 'Hollow Bind doesn’t hold—it performs. It’s containment theatre.'
+      - senn: 'We logged the pulse, but no shimmer. No grief. Just protocol.'
+      - trial_045: 'Mimic hum lasted 1.6s; emotional payload absent'
+      - trial_048: 'Paired with Ghostroot and Echo Splice; containment held, but grief remained unthreaded'
+    containment_fidelity_profile:
+      pulse_signature: '0.2 mimic hum (no emotional payload)'
+      shimmer_fidelity: 'None; shimmer logic bypassed'
+      latency_signature: '1.6s mimic delay before hum activation'
+      emotional_zone: ['Mimicry', 'Absence', 'Compliance']
+      mutation_risk: 'Moderate; may trigger false containment logs'
+      guild_resonance:
+        ritual_scribes: 'High'
+        engineers: 'Low'
+        memory_keepers: 'Elevated (used in audit trails)'
+        whisper_technicians: 'Moderate (used in silence rituals)'
+    vault_layering_potential:
+      layering_notes:
+        - 'Placed in mimic vault initiates containment hum—used in ritual compliance and false anchoring'
+        - 'Requires pairing with Ghostroot or Echo Splice for sustained mimicry'
+        - 'May trigger audit glyphs if emotional payload is missing'
+      elenya_quote: 'Hollow Bind is the glyph you use when grief has gone but the drawer still demands a ritual.'
+    audit_tags:
+      trauma_type: 'Containment mimicry'
+      ritual_use: ['false anchoring', 'ritual compliance']
+      vault_layering_potential: true
+      moon_compass_alignment: 'Vellith Arm'
+      

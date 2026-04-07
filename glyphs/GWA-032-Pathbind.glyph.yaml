@@ -1,0 +1,103 @@
+glyph_whisper_registry:
+  entry_id: "GWA-032"
+  glyph_name: "Pathbind"
+  category: "Navigation Glyph"
+  origin_glyphs:
+    - "Forkline"     # lineage divergence and bifurcation logic
+    - "Truthbind"    # emotional anchoring and directional fidelity
+  emotional_function: >
+    Anchors drawer direction and encodes emotional trajectory.
+    Used to stabilize lineage mapping, initiate compass calibration, and guide scene card seeding across helm and vault drawers.
+  drawer_affinity:
+    - "Compass Vault"
+    - "Scene Card Drawer"
+    - "Helm Index"
+
+  observational_fragments:
+    - "Drawer emits directional shimmer when placed during lineage mapping"
+    - "Sigil activates during scene card seeding or compass calibration"
+    - "Used during Trial 006 to align drawer trajectory post-oath"
+
+  ritual_annotations:
+    - trial_006:
+        context: "Moonpull rehearsal and post-oath alignment"
+        result: "Pathbind placed in compass drawer; shimmer aligned and trajectory stabilized"
+    - trial_009:
+        pairing: ["Forkline"]
+        result: "Bifurcation logic stabilized; drawer drift resolved and shimmer fidelity confirmed"
+    - moon_compass_alignment:
+        vellith_arm: "Pulse directed"
+        korrin_arm: "Latency buffered"
+        eshra_arm: "Morale harmonized"
+
+  emotional_diagnostics:
+    pulse_signature: "0.8 directional hum (stable)"
+    shimmer_fidelity: "High; drawer trajectory confirmed"
+    emotional_zone: ["Direction", "Lineage", "Anchor"]
+    mutation_risk: "Low; unless paired with fracture glyphs"
+    guild_observations:
+      loommaker: "Approved for compass indexing and directional shimmer calibration"
+      trial_scribes: "Use during scene card seeding and lineage mapping protocols"
+
+  vault_layering_potential:
+    compass_drawer_behavior: "Anchors emotional trajectory—used in scene card mapping and lineage calibration"
+    forkline_pairing: "Stabilizes bifurcation shimmer and resolves drawer drift during directional divergence"
+    elenya_note: >
+      "Pathbind doesn’t choose the way. It listens to where the drawer already began to turn."
+      — Elenya, Guild Archivist
+
+file_78_expansion_options:
+  scene_cards:
+    - "Pathbind hums softly as drawer trajectory aligns; shimmer pulses with directional fidelity"
+    - "Paired with Forkline, bifurcation shimmer stabilizes and lineage drift resolves across compass vault"
+    - "Scene card drawer pulses gently; Pathbind anchors emotional direction and post-oath calibration"
+
+  protocols:
+    - "Lineage Mapping Protocol – shimmer behavior during directional anchoring and drawer trajectory alignment"
+    - "Compass Calibration Index – drawer activation during moonpull rehearsal and emotional trajectory encoding"
+    - "Bifurcation Stabilization Logic – glyph pairing during directional drift and lineage divergence"
+
+  indexes:
+    - "Navigation Glyph Registry – Pathbind, Forkline, Truthbind interactions"
+    - "Scene Card Directional Archive – shimmer logs from drawer alignment and oath calibration"
+    - "Compass Vault Trajectory Index – glyphs used during emotional anchoring and directional shimmer mapping"
+
+  contributor_notes:
+    - "Pathbind is direction-bound—flag for compass drawer use and lineage mapping protocols"
+    - "Pairing with Forkline stabilizes bifurcation shimmer and resolves drawer drift"
+    - "Scene cards should reflect directional shimmer, emotional trajectory, and drawer anchoring logic"
+  cross_references:
+    - "GWA-012 Forkline"
+    - "GWA-019 Truthbind"
+    - "GWA-025 Lineage Anchor"
+  archival_tags:
+    - "Navigation Glyph"
+    - "Compass Vault"
+    - "Scene Card Drawer"
+    - "Lineage Mapping"
+    - "Directional Shimmer"
+  related_trials:
+    - "Trial 006: Moonpull Rehearsal and Post-Oath Alignment"
+    - "Trial 009: Bifurcation Stabilization with Forkline"
+  guild_recommendations:
+    - "Approved for compass indexing and directional shimmer calibration"
+    - "Use during scene card seeding and lineage mapping protocols"
+  preservation_instructions:
+    - "Store in compass vault drawer with Forkline and Truthbind for optimal emotional trajectory encoding"
+    - "Monitor shimmer fidelity during lineage mapping and scene card seeding activities"
+  research_leads:
+    - "Investigate Pathbind’s interaction with other navigation glyphs during complex lineage mapping"
+    - "Study shimmer behavior in compass vault drawers under varying emotional trajectories"
+  illustrative_quotes: >
+    - "Pathbind doesn’t choose the way. It listens to where the drawer already began to turn."
+      — Elenya, Guild Archivist
+  maintenance_logs:
+    - "2024-03-15: Verified shimmer fidelity during compass calibration; no anomalies detected."
+    - "2024-05-22: Observed enhanced directional hum when paired with Forkline during lineage mapping."
+  future_applications:
+    - "Potential use in advanced compass vault indexing and emotional trajectory stabilization"
+    - "Explore integration with emerging navigation glyphs for enhanced lineage mapping fidelity"
+  archival_priority: "High"
+  review_schedule: "Annual review recommended to assess shimmer fidelity and emotional trajectory encoding"
+  
+

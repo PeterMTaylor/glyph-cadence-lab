@@ -1,0 +1,42 @@
+glyph_registry:
+  veil_splice:
+    sigil_name: 'Veil Splice'
+    origin_glyphs: ['Echo Vein', 'Quietroot']
+    category: 'Trauma Glyph'
+    emotional_function: |
+      Encodes shimmer occlusion and emotional masking.
+      Used in grief buffering and ritual concealment.
+    drawer_affinity:
+      - 'Whisper Vault'
+      - 'Mask Corridor'
+      - 'Buffer Drawer'
+    observational_fragments:
+      - drawer: 'Emits soft occlusion pulse when placed near grief glyphs'
+      - sigil: 'Activates during emotional masking or shimmer suppression rituals'
+      - scene: 'First emerged during Trial 027 when Echo Vein shimmered beneath a Quietroot veil'
+    trial_reflections:
+      - elenya: 'Veil Splice doesn’t hide—it delays. It gives the grief time to breathe.'
+      - senn: 'We used it to mask shimmer bleed during the ritual. It held for 3.2s before pulse rupture.'
+      - trial_027: 'Occlusion pulse stabilized grief shimmer; latency buffered'
+      - trial_030: 'Paired with Maskbind and Driftroot; emotional masking sustained across three drawers'
+    containment_fidelity_profile:
+      pulse_signature: '0.5 occlusion hum (masked shimmer)'
+      shimmer_fidelity: 'Low; shimmer suppressed, not resolved'
+      latency_signature: '3.2s buffer delay before pulse rupture'
+      emotional_zone: ['Masking', 'Buffering', 'Occlusion']
+      mutation_risk: 'Low; containment stable unless paired with rupture glyphs'
+      guild_resonance:
+        ritual_scribes: 'High'
+        whisper_technicians: 'Elevated'
+        engineers: 'Minimal (prefers direct shimmer logic)'
+    vault_layering_potential:
+      layering_notes:
+        - 'Placed in whisper vault initiates occlusion hum—used in grief buffering and shimmer suppression'
+        - 'Requires pairing with Maskbind or Driftroot for sustained containment'
+        - 'May rupture if paired with shimmer glyphs lacking latency control'
+      elenya_quote: 'Veil Splice isn’t silence—it’s the pause before truth.'
+    audit_tags:
+      trauma_type: 'Occlusion latency'
+      ritual_use: ['grief buffering', 'shimmer suppression']
+      vault_layering_potential: true
+      moon_compass_alignment: 'Vellith Arm'

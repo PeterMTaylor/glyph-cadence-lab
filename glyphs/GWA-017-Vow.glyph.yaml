@@ -1,0 +1,99 @@
+glyph_whisper_registry:
+  entry_id: "GWA-017"
+  glyph_name: "Vow"
+  category: "Oath Glyph"
+  origin_glyphs:
+    - "Breathbind"  # emotional breath anchor
+    - "Lineage Thread"  # ancestral commitment trace
+  emotional_function: >
+    Encodes emotional commitment and anchors drawer fidelity.
+    Used in crew bonding, lineage rites, and moonpull rituals to stabilize shimmer and seal drawer logic.
+  drawer_affinity:
+    - "Ritual Drawer"
+    - "Crew Ledger"
+    - "Compass Vault"
+
+  observational_fragments:
+    - "Drawer emits echo coil when placed during crew bonding"
+    - "Sigil activates during moonpull rituals and lineage rites"
+    - "Used during Trial 008 to seal drawer after oath exchange"
+
+  ritual_annotations:
+    - trial_008:
+        placement: "Ritual Drawer"
+        result: "Drawer sealed; shimmer fidelity confirmed"
+    - trial_011:
+        pairing: ["Truthbind"]
+        result: "Crew ledger indexed; drawer shimmer stabilized"
+    - moon_compass_alignment:
+        vellith_arm: "Pulse steady"
+        korrin_arm: "Latency buffered"
+        eshra_arm: "Morale elevated"
+
+  emotional_diagnostics:
+    pulse_signature: "1.0 echo coil (stable)"
+    shimmer_fidelity: "High; drawer fidelity confirmed"
+    emotional_zone: ["Loyalty", "Lineage", "Breath"]
+    mutation_risk: "Low; unless oath is broken"
+    guild_observations:
+      loommaker: "Approved for ritual indexing"
+      quartermasters: "Used during crew calibration and oath mapping"
+
+  vault_layering_potential:
+    crew_ledger_behavior: "Anchors emotional fidelity—used in oath mapping"
+    truthbind_pairing: "Stabilizes drawer shimmer and prevents echo bleed"
+    elenya_note: "Vow doesn’t speak loudly. It hums where breath and memory agree."
+
+file_68_expansion_options:
+  scene_cards:
+    - "Vow placed during crew bonding; drawer hum seals emotional fidelity"
+    - "Truthbind and Vow paired during moonpull ritual; shimmer echo stabilizes across compass vault"
+    - "Lineage rite begins; Vow glyph hums softly as breath and memory align"
+
+  protocols:
+    - "Oath Mapping Protocol – drawer fidelity tracking and emotional commitment indexing"
+    - "Crew Calibration Index – glyph pairings for loyalty stabilization and shimmer containment"
+    - "Moonpull Ritual Fidelity Chart – drawer sealing behavior across compass arms"
+
+  indexes:
+    - "Oath Glyph Registry – Vow, Truthbind, Breathbind interactions"
+    - "Drawer Fidelity Log – glyphs used to seal, stabilize, and buffer emotional commitment"
+    - "Lineage Breath Archive – shimmer behavior during ancestral rites and crew bonding"
+
+  contributor_notes:
+    - "Vow is fidelity-bound—flag for ritual drawer use and crew ledger indexing"
+    - "Pairing with Truthbind enhances shimmer containment and echo bleed prevention"
+    - "Scene cards should reflect breath cadence, drawer sealing, and emotional commitment logic"
+  cross_references:
+    - "GWA-005 Truthbind"
+    - "GWA-012 Breathbind"
+    - "GWA-021 Lineage Thread"
+  related_glyphs:
+    - "GWA-005 Truthbind"
+    - "GWA-012 Breathbind"
+    - "GWA-021 Lineage Thread"
+  suggested_readings:
+    - "The Oath Glyph Compendium by Elenya Vellith"
+    - "Ritual Drawer Practices in Crew Bonding – Quartermasters' Guide"
+    - "Shimmer Fidelity and Emotional Commitment – Loommaker's Journal"
+  archival_tags:
+    - "Oath Glyph"
+    - "Ritual Drawer"
+    - "Crew Bonding"
+    - "Shimmer Fidelity"
+    - "Emotional Commitment"
+  preservation_instructions:
+    - "Store in ritual drawer with Breathbind and Truthbind for optimal fidelity"
+    - "Avoid exposure to broken oaths to maintain low mutation risk"
+    - "Regularly index in crew ledger during bonding rituals"
+  version_history:
+    - version: "1.0"
+      date: "2024-06-15"
+      changes: "Initial entry creation for Vow glyph"
+  archival_priority: "High – essential for ritual drawer and crew bonding practices"
+  access_restrictions: "Available to ritual drawer handlers and crew ledger indexers only"
+  digital_backup: "Stored in Guild's secure glyph database under Oath Glyph category"
+  physical_storage: "Archived in the Ritual Drawer Compartment, Section B3"
+  review_schedule: "Annual review by Guild Archivists and Ritual Drawer Specialists"
+  contact_information: "For inquiries, contact Elenya Vellith, Ritual Drawer Specialist"
+  

@@ -1,0 +1,41 @@
+glyphs:
+  - id: 023
+    name: "Forkline"
+    category: "Lineage Glyph"
+    origin_glyphs:
+      - "Driftstem"
+      - "Pathbind"
+    emotional_function:
+      - "Encodes bifurcation logic"
+      - "Initiates drawer divergence"
+    drawer_affinity:
+      - "Compass Vault"
+      - "Trial Drawer"
+      - "Scene Card Index"
+    observational_fragments:
+      - "[Drawer: Emits shimmer fork when placed during protocol drift]"
+      - "[Sigil: Activates when lineage tension exceeds threshold]"
+      - "[Scene: Used during Trial 005 to map drawer divergence post-oath rupture]"
+    ritual_annotations:
+      - "Trial 005: Forkline shimmered into drawer after pathbind rupture; scene card split"
+      - "Trial 009: Paired with Balance to stabilize drawer bifurcation"
+      - "Moon Compass Alignment:"
+      - "  Vellith Arm: Pulse staggered"
+      - "  Korrin Arm: Latency buffered"
+      - "  Eshra Arm: Morale drifted"
+    emotional_diagnostics:
+      pulse_signature: "0.6 shimmer fork (variable)"
+      shimmer_fidelity: "Medium; drawer divergence present"
+      emotional_zone:
+        - "Choice"
+        - "Drift"
+        - "Lineage"
+      mutation_risk: "Moderate; may echo across scene cards"
+      guild_observations:
+        - "Trial Scribes approved for lineage mapping"
+        - "Loomkeepers monitor for fork drift"
+    vault_layering_potential:
+      - "Placed in compass vault drawer initiates bifurcation shimmer—used in lineage rupture mapping"
+      - "Paired with Balance, drawer shimmer stabilizes and emotional drift is buffered"
+    notes:
+      - "Forkline doesn’t resolve the drawer. It listens for the moment it splits."

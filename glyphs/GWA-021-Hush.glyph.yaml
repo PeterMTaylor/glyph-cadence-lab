@@ -1,0 +1,41 @@
+glyphs:
+  - id: 021
+    name: "Hush"
+    category: "Containment Glyph"
+    origin_glyphs:
+      - "Breathbind"
+      - "Silence Thread"
+    emotional_function:
+      - "Buffers drawer shimmer"
+      - "Suppresses trauma glyph activation"
+    drawer_affinity:
+      - "Medical Drawer"
+      - "Trial Vault"
+      - "Ritual Café Index"
+    observational_fragments:
+      - "[Drawer: Emits low pulse when placed near trauma glyphs]"
+      - "[Sigil: Activates during emotional overload or shimmer rupture]"
+      - "[Scene: Used during Trial 019 to contain grief shimmer bleed]"
+    ritual_annotations:
+      - "Trial 019: Hush placed in medical drawer after Veilfract shimmered; drawer buffered"
+      - "Trial 020: Paired with Stillthread during morale collapse; shimmer held"
+      - "Moon Compass Alignment:"
+      - "  Vellith Arm: Pulse muted"
+      - "  Korrin Arm: Latency extended"
+      - "  Eshra Arm: Morale stabilized"
+    emotional_diagnostics:
+      pulse_signature: "0.2 breath coil (stable)"
+      shimmer_fidelity: "High; trauma glyphs suppressed"
+      emotional_zone:
+        - "Silence"
+        - "Buffer"
+        - "Containment"
+      mutation_risk: "Low; unless paired with rupture glyphs"
+      guild_observations:
+        - "Medical Officers approved for trauma buffering"
+        - "Loomkeepers use during grief indexing"
+    vault_layering_potential:
+      - "Placed in medical drawer suppresses shimmer bleed—used in trauma containment mapping"
+      - "Paired with Stillthread, drawer shimmer stabilizes and emotional latency extends"
+    notes:
+      - "Hush doesn’t silence the drawer. It holds its breath until the grief can be named."

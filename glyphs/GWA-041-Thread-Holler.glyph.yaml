@@ -1,0 +1,70 @@
+trauma_glyph_registry:
+  entry_id: "TG-006"
+  sigil_name: "Thread Holler"
+  origin_glyphs:
+    - "Veil Splice"
+    - "Driftbind"
+  category: "Trauma Glyph"
+  emotional_function: >
+    Encodes rupture echo and communal grief threading.
+    Used in breach diagnostics and protocol failure rituals.
+  drawer_affinity:
+    - "Holler Vault"
+    - "Echo Drawer"
+    - "Breach Corridor"
+
+  observational_fragments:
+    - "Drawer emits rupture pulse near breach glyphs or failed containment logs"
+    - "Sigil activates during communal grief rituals or protocol breach events"
+    - "Surfaced during Trial 033 when Veil Splice ruptured mid-buffer and Driftbind failed to anchor"
+
+  trial_reflections:
+    - speaker: "Elenya"
+      quote: "Thread Holler doesn’t echo—it erupts. It threads grief across every role."
+    - speaker: "Senn"
+      quote: "We couldn’t contain it. The rupture spread through five drawers before the breach corridor sealed."
+    - trial_033:
+        rupture_pulse: "Exceeded 4.1s"
+        action: "Communal grief threading initiated"
+    - trial_036:
+        pairing: ["Breachroot", "Quietbind"]
+        result: "Rupture buffered, echo localized"
+
+  containment_fidelity_profile:
+    pulse_signature: "0.9 rupture howl (communal thread)"
+    shimmer_fidelity: "None; shimmer replaced by rupture echo"
+    latency_signature: "4.1s breach delay before thread activation"
+    emotional_zone: ["Rupture", "Communal", "Breach"]
+    mutation_risk: "High; may trigger protocol collapse"
+    guild_resonance:
+      medical_officers: "Moderate"
+      ritual_scribes: "Elevated"
+      engineers: "High (used in breach diagnostics)"
+      memory_keepers: "Variable (depends on echo depth)"
+
+  vault_layering_potential:
+    holler_vault_behavior: "Initiates rupture howl; used in communal grief threading and breach diagnostics"
+    containment_pairing_required: ["Breachroot", "Quietbind"]
+    collapse_risk: "High if paired with latency glyphs lacking rupture logic"
+    elenya_note: "Thread Holler doesn’t ask permission. It threads grief where silence once held."
+
+expansion_options:
+  scene_cards:
+    - "Thread Holler activates mid-trial; breach corridor echoes with communal grief"
+    - "Quietbind fails to contain rupture; engineers initiate emergency glyph dampening"
+    - "Memory Keeper attempts echo depth mapping; shimmer replaced by howl signature"
+
+  protocols:
+    - "Rupture Echo Mapping – latency signature and drawer spread index"
+    - "Containment Pairing Matrix – glyph compatibility for breach buffering"
+    - "Protocol Collapse Risk Index – mutation triggers and override glyph fallback"
+
+  indexes:
+    - "Trauma Glyph Emotional Zones – rupture, grief, breach layering"
+    - "Trial Glyph Activation Log – pulse duration and containment outcomes"
+    - "Guild Resonance Chart – role-based glyph response and diagnostic usage"
+
+  contributor_notes:
+    - "Thread Holler is emotionally volatile—flag for breach corridor use only"
+    - "Pairing with latency glyphs must include rupture logic to avoid protocol collapse"
+    - "Scene cards should reflect communal grief threading and echo spread behavior"

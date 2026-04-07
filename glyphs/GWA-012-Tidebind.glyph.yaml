@@ -1,0 +1,74 @@
+glyph_id: "GWA-012"
+name: "Tidebind"
+family: "Navigational"
+category: "Navigational Glyph"
+
+lineage:
+  primary: "Waythread"
+  secondary: "Leafchant"
+
+origin_glyphs:
+  - "Waythread"
+  - "Leafchant"
+
+function:
+  emotional: "Harmonizes undercurrent drift and stabilizes drawer behavior during emotional tides and lineage loops."
+  navigational: "Anchors ship movement to lunar cadence."
+  distortion: ""
+  containment: ""
+
+signature:
+  pulse: "1.2 layered hum"
+  activation: "Moonpull calibration"
+  shimmer_fidelity: "High during lunar alignment"
+  latency: ""
+
+affect:
+  whisper: "Threads through the current rather than resisting it."
+  trauma_residue: "Grief-tide softening; undercurrent buffering."
+  wildcard: "Drawer emits layered hum during calibration."
+
+drawer_affinity:
+  - "Helm Drawer"
+  - "Tide Vault"
+  - "Moonpull Index"
+
+observational_fragments:
+  - "Drawer emits layered hum when Tidebind is placed during moonpull calibration"
+  - "Sigil activates during undercurrent tension, especially in grief-laden zones"
+  - "Used by Elenya during the Passage of Three Moons to stabilize drawer drift"
+
+rituals:
+  - ritual_id: "moonpass_022"
+    method: ""
+    pairing: []
+    exposure: ""
+    effect: "Shimmer drift buffered across compass arms"
+  - ritual_id: "trial_025"
+    method: ""
+    pairing: ["Waythread"]
+    exposure: ""
+    effect: "Drawer cadence aligned with lunar pull"
+  - ritual_id: "compass_alignment"
+    method: ""
+    pairing: []
+    exposure: ""
+    effect: "Vellith: containment resonance; Korrin: trauma softened; Eshra: morale buffered"
+
+risk_profile:
+  mutation: "Low"
+  emotional_zone:
+    - "Drift"
+    - "Pull"
+    - "Containment"
+  guild_resonance:
+    - guild: "quartermasters"
+      level: "Approved for moonpass indexing"
+    - guild: "loommaker"
+      level: "Added to seasonal vaults"
+
+vault_behavior:
+  drawer_behavior: "Anchors lunar cadence across drawer stack"
+  pairing_behavior: "Leafchant pairing creates breathable shimmer corridors"
+  layering:
+    - "Elenya note: Tidebind threads through grief like breath."

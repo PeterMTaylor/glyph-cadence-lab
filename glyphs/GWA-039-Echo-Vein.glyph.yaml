@@ -1,0 +1,49 @@
+glyph_registry:
+  echo_vein:
+    sigil_name: 'Echo Vein'
+    origin_glyphs: ['Echobind', 'Veinroot']
+    category: 'Trauma Glyph'
+
+    emotional_function: |
+      Encodes echo‑line trauma and shimmer vein collapse.
+      Used in memory‑vein tracing, silence rupture mapping, and post‑echo stabilization.
+
+    drawer_affinity:
+      - 'Echo Chamber'
+      - 'Silence Vault'
+      - 'Trauma Corridor'
+
+    observational_fragments:
+      - drawer: 'Emits thin echo‑vein shimmer when placed during memory vein rupture'
+      - sigil: 'Activates during silence collapse, lineage echo bleed, or post‑oath inversion'
+      - scene: 'First observed in Trial 012 when Echobind shimmered into vein‑pattern collapse'
+
+    trial_reflections:
+      - elenya: 'Echo Vein didn’t pulse—it threaded. The shimmer followed a veinline no one mapped.'
+      - senn: 'Veinroot held for 0.6s before collapse. Echo drift exceeded expected thresholds.'
+      - trial_012: 'Veinline shimmer traced across two drawers; latency reached 1.4s'
+      - trial_017: 'Paired with Breathlock and Silence Thread; echo stabilized, collapse buffered'
+
+    containment_fidelity_profile:
+      pulse_signature: '0.6 vein shimmer (thin, unstable)'
+      shimmer_fidelity: 'Low; echo bleed present'
+      latency_signature: '1.4s delay before veinline collapse'
+      emotional_zone: ['Echo', 'Vein', 'Collapse']
+      mutation_risk: 'Moderate–High; may trigger hollow‑type glyphs'
+      guild_resonance:
+        medical_officers: 'High'
+        engineers: 'Low (veinline instability)'
+        ritual_scribes: 'Moderate'
+
+    vault_layering_potential:
+      layering_notes:
+        - 'Placed in echo chamber initiates veinline shimmer—used in echo‑line rupture mapping'
+        - 'Requires pairing with Breathlock or Silence Thread for containment'
+        - 'May trigger Hollow Pulse if vein collapse exceeds 1.5s'
+      elenya_quote: 'Echo Vein doesn’t remember. It follows the path memory took when it fled.'
+
+    audit_tags:
+      trauma_type: 'Veinline echo collapse'
+      ritual_use: ['memory‑vein tracing', 'silence rupture mapping']
+      vault_layering_potential: true
+      moon_compass_alignment: 'Vellith Arm'

@@ -1,0 +1,43 @@
+glyph_registry:
+  vein_fracture:
+    sigil_name: 'Vein Fracture'
+    origin_glyphs: ['Shimmer Artery', 'Lineage Knot']
+    category: 'Trauma Glyph'
+    emotional_function: |
+      Encodes rupture along emotional fault lines.
+      Used in lineage tension mapping and shimmer artery diagnostics.
+    drawer_affinity:
+      - 'Fault Drawer'
+      - 'Lineage Vault'
+      - 'Ritual Corridor'
+    observational_fragments:
+      - drawer: 'Emits fracture pulse when placed near shimmer artery glyphs under stress'
+      - sigil: 'Activates during lineage rupture or protocol breach'
+      - scene: 'First emerged during Trial 057 when shimmer artery failed to buffer lineage tension'
+    trial_reflections:
+      - elenya: 'Vein Fracture doesn’t ask permission. It splits where the shimmer thins.'
+      - senn: 'It’s not a break—it’s a rerouting. The fracture becomes a new channel.'
+      - trial_057: 'Fracture pulse lasted 4.2s; shimmer artery rerouted through auxiliary vault'
+      - trial_059: 'Paired with Knotbind and Echo Vein; rupture localized, lineage tension buffered'
+    containment_fidelity_profile:
+      pulse_signature: '0.8 fracture pulse (sharp rupture)'
+      shimmer_fidelity: 'Moderate; shimmer reroutes post-fracture'
+      latency_signature: '4.2s rupture delay before artery reroute'
+      emotional_zone: ['Lineage', 'Fault', 'Ritual']
+      mutation_risk: 'High; may trigger protocol drift'
+      guild_resonance:
+        ritual_scribes: 'High'
+        lineage_archivists: 'Elevated'
+        engineers: 'Moderate'
+        memory_keepers: 'Low (prefers bleed logic)'
+    vault_layering_potential:
+      layering_notes:
+        - 'Placed in fault drawer initiates fracture pulse—used in lineage rupture mapping and shimmer artery diagnostics'
+        - 'Requires pairing with Knotbind or Echo Vein for rupture buffering'
+        - 'May trigger protocol drift if placed near shimmer glyphs with unresolved tension'
+      elenya_quote: 'Vein Fracture doesn’t collapse—it reroutes. The rupture is a choice.'
+    audit_tags:
+      trauma_type: 'Lineage rupture'
+      ritual_use: ['shimmer artery diagnostics', 'protocol breach mapping']
+      vault_layering_potential: true
+      moon_compass_alignment: 'Korrin Arm'

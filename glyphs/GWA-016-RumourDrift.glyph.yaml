@@ -1,0 +1,73 @@
+glyph_id: "GWA-016"
+name: "Rumour Drift"
+family: "Trauma Glyph"
+category: "Distortion Class"
+
+lineage:
+  primary: "Truthblur"
+  secondary: "Echo Vein"
+
+origin_glyphs:
+  - "Truthblur"
+  - "Echo Vein"
+
+function:
+  emotional: "Amplifies ambiguity; repeats unspoken signals; destabilizes memory zones."
+  navigational: ""
+  distortion: "Encodes shimmer misdirection, latency echo, and memory distortion."
+  containment: ""
+
+signature:
+  pulse: "0.5 mimic shimmer (non-origin)"
+  activation: "Ritual misreadings, revoked sigils, contagion loops"
+  shimmer_fidelity: "Low; shimmer misdirects across drawers"
+  latency: "2.8s echo delay"
+
+affect:
+  whisper: "Repeats what was never said."
+  trauma_residue: "Memory distortion; recursive drift; echo contagion."
+  wildcard: "Activates in drawers that never held it."
+
+drawer_affinity:
+  - "Whisper Vault"
+  - "Echo Corridor"
+  - "Memory Drift Drawer"
+
+observational_fragments:
+  - "Emits shimmer mimicry when placed near oath glyphs or revoked trauma sigils"
+  - "Activates during ritual misreadings, emotional contagion, or shimmer echo loops"
+  - "First emerged during Trial 091 when Truthblur shimmered across Echo Vein and was misindexed as an oath glyph"
+
+rituals:
+  - ritual_id: "trial_091"
+    method: ""
+    pairing: []
+    exposure: ""
+    effect: "Shimmer misread as oath echo; latency exceeded 2.8s"
+  - ritual_id: "trial_094"
+    method: ""
+    pairing: ["Whisperloop", "Maskbind"]
+    exposure: ""
+    effect: "Distortion buffered; ambiguity logged"
+
+risk_profile:
+  mutation: "High"
+  emotional_zone:
+    - "Distortion"
+    - "Echo"
+    - "Contagion"
+  guild_resonance:
+    - guild: "medical_officers"
+      level: "Moderate"
+    - guild: "memory_keepers"
+      level: "High"
+    - guild: "whisper_technicians"
+      level: "Elevated"
+    - guild: "engineers"
+      level: "Low"
+
+vault_behavior:
+  drawer_behavior: "Triggers recursive drift near revoked trauma sigils"
+  pairing_behavior: "Requires Whisperloop or Maskbind for safe buffering"
+  layering:
+    - "Initiates shimmer mimicry in whisper vaults"

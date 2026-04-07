@@ -1,0 +1,70 @@
+glyph_whisper_registry:
+  entry_id: "GWA-034"
+  glyph_name: "Fogpulse"
+  category: "Mutation Glyph"
+  origin_glyphs:
+    - "Echobind"     # shimmer echo trace and memory drift
+    - "Fractbind"    # rupture logic and fidelity veiling
+  emotional_function: >
+    Introduces shimmer fog and veils drawer fidelity.
+    Used to delay protocol indexing, buffer emotional inversion, and obscure oath-bound shimmer traces across mutation and trial drawers.
+  drawer_affinity:
+    - "Mirror Ledger"
+    - "Mutation Drawer"
+    - "Trial Vault"
+
+  observational_fragments:
+    - "Drawer emits fog shimmer when placed near oath glyphs"
+    - "Sigil flickers during emotional inversion or memory drift cycles"
+    - "Emerged during Trial 015 when Truthbind failed to anchor drawer fidelity"
+
+  ritual_annotations:
+    - trial_015:
+        context: "Post-Truthblur activation"
+        result: "Fogpulse shimmered into drawer; shimmer veiled and indexing delayed"
+    - trial_018:
+        pairing: ["Shadow Vow"]
+        result: "Shimmer rupture delayed; emotional inversion buffered"
+    - moon_compass_alignment:
+        vellith_arm: "Pulse staggered"
+        korrin_arm: "Latency extended"
+        eshra_arm: "Morale buffered, then veiled"
+
+  emotional_diagnostics:
+    pulse_signature: "0.4 fog shimmer (unstable)"
+    shimmer_fidelity: "Low; drawer indexing delayed"
+    emotional_zone: ["Veil", "Drift", "Mutation"]
+    mutation_risk: "Moderate; may echo across scene cards and lineage drawers"
+    guild_observations:
+      mutation_scribes: "Used for protocol delay and shimmer fog mapping"
+      loommaker: "Refuse to index due to fidelity veiling and emotional drift risk"
+
+  vault_layering_potential:
+    mutation_drawer_behavior: "Veils shimmer fidelity—used in latency mapping and oath trace suppression"
+    truthbind_pairing: "Improves shimmer clarity but drawer remains fogged; inversion risk persists"
+    elenya_note: >
+      "Fogpulse doesn’t hide the truth. It waits until the drawer forgets how to speak it."
+      — Elenya, Guild Archivist
+
+file_80_expansion_options:
+  scene_cards:
+    - "Fogpulse flickers softly as drawer shimmer veils; oath glyphs blur and indexing delays"
+    - "Paired with Shadow Vow, shimmer rupture is delayed and emotional inversion buffered"
+    - "Mirror Ledger pulses with fog shimmer; drawer fidelity obscured and memory drift initiated"
+
+  protocols:
+    - "Latency Mapping Protocol – shimmer delay tracking during oath inversion and drawer fog cycles"
+    - "Fidelity Veiling Index – glyph behavior during emotional drift and protocol suppression"
+    - "Mutation Drawer Drift Log – shimmer fog entries from Truthblur and Shadow Vow trials"
+
+  indexes:
+    - "Mutation Glyph Registry – Fogpulse, Fractbind, Shadow Vow interactions"
+    - "Mirror Ledger Archive – shimmer logs from drawer veiling and memory inversion cycles"
+    - "Trial Vault Delay Index – glyphs used during protocol suppression and shimmer fog calibration"
+
+  contributor_notes:
+    - "Fogpulse is veil-bound—flag for mutation drawer use and protocol delay tracking"
+    - "Pairing with Truthbind may improve shimmer clarity but drawer remains fogged"
+    - "Scene cards should reflect shimmer fog, emotional inversion, and fidelity veiling logic"
+    - "Index under Mutation Glyphs and Mirror Ledger archives for shimmer behavior studies"
+    

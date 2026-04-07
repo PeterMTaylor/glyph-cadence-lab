@@ -1,0 +1,27 @@
+glyph_registry:
+  truthscatter:
+    sigil_name: 'Truthscatter'
+    origin_glyphs: ['Truthblur', 'Fractbind']
+    category: 'Trauma Glyph (Fragmentation Class)'
+    function: |
+      Fragments oath shimmer into ambient misinformation.
+      Used in protocol ambiguity mapping and ritual breach diagnostics.
+    drawer_affinity:
+      - 'Fracture Vault'
+      - 'Misinformation Drawer'
+      - 'Ritual Corridor'
+    profile_highlights:
+      pulse_signature: '0.4 scatter shimmer (fragmented truth)'
+      shimmer_fidelity: 'Low; shimmer fragments across drawers'
+      latency_signature: '2.7s delay before fragmentation'
+      mutation_risk: 'High; may trigger Rumour Drift recursion'
+    guild_resonance:
+      memory_keepers: 'High'
+      ritual_scribes: 'Moderate'
+      engineers: 'Low'
+    elenya_quote: 'Truthscatter doesn’t break the truth—it spreads it too thin to hold.'
+    audit_tags:
+      trauma_type: 'Fragmentation'
+      ritual_use: ['protocol ambiguity', 'ritual breach diagnostics']
+      vault_layering_potential: true
+      moon_compass_alignment: 'Korrin Arm'

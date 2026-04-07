@@ -1,0 +1,42 @@
+glyph_registry:
+  maskbind:
+    sigil_name: 'Maskbind'
+    origin_glyphs: ['Veilroot', 'Compliance Thread']
+    category: 'Trauma Glyph'
+    emotional_function: |
+      Encodes concealment, ritual compliance, and emotional masking.
+    drawer_affinity:
+      - 'Ritual Corridor'
+      - 'Compliance Vault'
+      - 'Echo Chamber'
+    observational_fragments:
+      - drawer: 'Activates during ritual compliance audits or emotional masking protocols'
+      - sigil: 'Emits faint veil shimmer; pulse is rhythmic but muted'
+      - scene: 'First emerged during Trial 071 when crew member concealed trauma glyph activation during ritual'
+    trial_reflections:
+      - elenya: 'Maskbind doesn’t hide—it harmonizes. It lets the ritual proceed without rupture.'
+      - senn: 'We found it layered beneath Veilroot. It wasn’t deception—it was containment.'
+      - trial_071: 'Emotional masking protocol triggered; glyph shimmer buffered'
+      - trial_074: 'Paired with Ghostroot and Quietroot; ritual compliance maintained'
+    containment_fidelity_profile:
+      pulse_signature: '0.3 veil shimmer (rhythmic, muted)'
+      shimmer_fidelity: 'Moderate; shimmer harmonizes with ritual flow'
+      latency_signature: 'Low; activates during emotional masking'
+      emotional_zone: ['Compliance', 'Ritual', 'Concealment']
+      mutation_risk: 'Low; may trigger Veilroot or Echobind'
+      guild_resonance:
+        ritual_scribes: 'High'
+        memory_keepers: 'Moderate'
+        engineers: 'Low'
+        whisper_technicians: 'Elevated (used in ritual audit tracing)'
+    vault_layering_potential:
+      layering_notes:
+        - 'Used in ritual corridors to maintain emotional compliance'
+        - 'Paired with Ghostroot to buffer haunt shimmer during ritual audits'
+        - 'May trigger Echobind if concealment is breached'
+      elenya_quote: 'Maskbind is not deception—it’s emotional choreography.'
+    audit_tags:
+      trauma_type: 'Emotional masking'
+      ritual_use: ['ritual compliance', 'concealment protocols']
+      vault_layering_potential: true
+      moon_compass_alignment: 'Vellith Arm'

@@ -1,0 +1,66 @@
+glyph_registry:
+  pulsemark:
+    sigil_name: 'Pulsemark'
+    category: 'Trauma Glyph (Detection Class)'
+    origin_glyphs: ['Breathlock', 'Murmur']
+    emotional_function: |
+      Detects shimmer irregularities in drawer rhythm.
+      Used to identify circulatory or breath-based trauma during pre-therapy scans.
+    drawer_affinity:
+      - 'Rhythm Drawer'
+      - 'Latency Vault'
+    pairing_glyphs:
+      - 'Breathlock'
+      - 'Murmur'
+    deployment_context:
+      - 'Used by Medical Officers during shimmer rhythm diagnostics'
+      - 'Initiates shimmer stabilization before therapeutic engagement'
+    audit_tags:
+      trauma_type: 'Circulatory / Breath-based'
+      ritual_use: ['pre-therapy scan', 'rhythmic shimmer detection']
+      vault_layering_potential: true
+      moon_compass_alignment: 'Eshra Arm'
+
+  fracttrace:
+    sigil_name: 'Fracttrace'
+    category: 'Trauma Glyph (Mapping Class)'
+    origin_glyphs: ['Shardbind', 'Driftstem']
+    emotional_function: |
+      Maps physical fracture shimmer across drawer layers.
+      Used in bone trauma, structural collapse, or containment breach.
+    drawer_affinity:
+      - 'Fracture Drawer'
+      - 'Stabilization Vault'
+    pairing_glyphs:
+      - 'Shardbind'
+      - 'Driftstem'
+    deployment_context:
+      - 'Used by Medical Officers to trace fracture shimmer and stabilize drawer integrity'
+      - 'Supports containment protocols prior to therapeutic repair'
+    audit_tags:
+      trauma_type: 'Bone / Structural'
+      ritual_use: ['fracture mapping', 'containment breach detection']
+      vault_layering_potential: true
+      moon_compass_alignment: 'Korrin Arm'
+
+  bindecho:
+    sigil_name: 'Bindecho'
+    category: 'Trauma Glyph (Echo Detection Class)'
+    origin_glyphs: ['Echobind', 'Quietroot']
+    emotional_function: |
+      Detects latent trauma echoes in drawer memory.
+      Used in soft tissue trauma or unindexed injuries.
+    drawer_affinity:
+      - 'Memory Drawer'
+      - 'Latency Corridor'
+    pairing_glyphs:
+      - 'Echobind'
+      - 'Quietroot'
+    deployment_context:
+      - 'Used by Medical Officers to detect unindexed shimmer echoes'
+      - 'Supports emotional buffering and memory stabilization before therapy'
+    audit_tags:
+      trauma_type: 'Soft tissue / Latent echo'
+      ritual_use: ['echo detection', 'memory shimmer diagnostics']
+      vault_layering_potential: true
+      moon_compass_alignment: 'Vellith Arm'

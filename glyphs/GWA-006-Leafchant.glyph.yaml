@@ -1,0 +1,47 @@
+glyph_whisper_archive:
+  entry_id: '006'
+  sigil_name: 'Leafchant'
+  origin_glyphs:
+    - 'Shimmerleaf'
+    - 'Windroot'
+  category: 'Ecological Glyph'
+  emotional_function: 'Buffers seasonal grief, harmonizes zone drift'
+  drawer_affinity:
+    - 'Flora Drawer'
+    - 'Seasonal Vault'
+    - 'Ritual Café Index'
+  observational_fragments:
+    - drawer: 'Emits low hum when placed near shimmerleaf registry'
+    - sigil: 'Activates during lunar drift, especially in Eshra Arm'
+    - scene: 'First appeared during the Harvest Ritual of Korrin, sung into existence by Loomkeeper Elenya'
+  ritual_annotations:
+    - harvest_ritual_014: 'Used to stabilize shimmerleaf bloom; grief buffering successful'
+    - trial_012: 'Paired with Bladderwrack glyph to test aquatic resonance—partial success'
+    - moon_compass_alignment:
+        vellith_arm: 'Harmonized with kelp registry'
+        korrin_arm: 'Used in seasonal café to buffer emotional latency'
+        eshra_arm: 'Activated during wind-threaded mourning rites'
+  emotional_diagnostics:
+    pulse_signature: '0.7 hum resonance (stable)'
+    shimmer_fidelity: 'Medium; seasonal drift buffered'
+    emotional_zone:
+      - 'Grief'
+      - 'Renewal'
+      - 'Latency'
+    mutation_risk: 'Low; stabilizes nearby glyphs'
+    guild_observations:
+      ritual_scribes: 'Approved for seasonal indexing'
+      loomkeepers: 'Added to café ledger'
+  vault_layering_potential:
+    layering_notes:
+      - 'Placed in seasonal vault drawer creates hum corridors—used in grief buffering'
+      - 'Paired with Veilfract, shimmer bleed slows and hum resonance stabilizes drawer'
+      - elenya_quote: 'Leafchant doesn’t speak—it listens. It’s the breath between grief and bloom.'
+  audit_tags:
+    trauma_type: 'Seasonal grief buffering'
+    ritual_use:
+      - 'flora resonance'
+      - 'lunar drift harmonization'
+      - 'mourning rite stabilization'
+    vault_layering_potential: true
+    moon_compass_alignment: 'Vellith / Korrin / Eshra Arms'

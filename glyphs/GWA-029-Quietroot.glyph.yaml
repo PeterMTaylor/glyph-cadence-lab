@@ -1,0 +1,41 @@
+glyphs:
+  - id: 029
+    name: "Quietroot"
+    category: "Stabilization Glyph"
+    origin_glyphs:
+      - "Driftstem"
+      - "Silence Thread"
+    emotional_function:
+      - "Grounds drawer shimmer"
+      - "Buffers ambient emotional drift"
+    drawer_affinity:
+      - "Flora Index"
+      - "Ritual Drawer"
+      - "Compass Vault"
+    observational_fragments:
+      - "[Drawer: Emits low hum when placed during seasonal drift or morale buffering]"
+      - "[Sigil: Activates when shimmer loops threaten drawer latency]"
+      - "[Scene: Used during Trial 017 to stabilize drawer after grief bloom rupture]"
+    ritual_annotations:
+      - "Trial 017: Quietroot placed in flora drawer post-shard rupture; shimmer buffered"
+      - "Trial 020: Paired with Murmur during ritual café calibration"
+      - "Moon Compass Alignment:"
+      - "  Vellith Arm: Pulse softened"
+      - "  Korrin Arm: Latency extended"
+      - "  Eshra Arm: Morale harmonized"
+    emotional_diagnostics:
+      pulse_signature: "0.5 root hum (stable)"
+      shimmer_fidelity: "High; ambient drift suppressed"
+      emotional_zone:
+        - "Grounding"
+        - "Buffer"
+        - "Seasonal"
+      mutation_risk: "Low; unless paired with rupture glyphs"
+      guild_observations:
+        - "Loomkeepers approved for flora indexing"
+        - "Ritual Scribes use during seasonal calibration"
+    vault_layering_potential:
+      - "Placed in flora drawer buffers seasonal shimmer—used in grief bloom containment"
+      - "Paired with Murmur, drawer latency extends and emotional drift stabilizes"
+    notes:
+      - "Quietroot doesn’t silence the drawer. It teaches it how to rest."
